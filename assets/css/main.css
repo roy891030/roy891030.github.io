@@ -1,13 +1,19 @@
 @font-face {
-  font-family: 'CrayonHand';
+  font-family: 'CrayonEnglish';
   src: url('/assets/fonts/crayon.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
+  unicode-range: U+0020-007E; /* 基本拉丁字元 (英文) */
+}
+
+@font-face {
+  font-family: 'ChineseFont';
+  src: url('/assets/fonts/chinese.ttf') format('truetype');
+  unicode-range: U+4E00-9FFF; /* 常用中日韓統一表意文字 */
 }
 
 body {
-  font-family: 'CrayonHand', sans-serif;
+  font-family: 'CrayonEnglish', 'ChineseFont', sans-serif;
 }
+
 
 /**
  * Reset some basic elements
@@ -663,7 +669,7 @@ table td {
 body {
   background-color: #E1E0C9; /* 米色背景 */
   color: #5A6049; /* 深綠文字 */
-  font-family: 'CrayonHand', sans-serif;
+  font-family: 'CrayonEnglish', 'ChineseFont', sans-serif;
 }
 
 a {
