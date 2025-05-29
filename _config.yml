@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 頤養數位遊牧者
+title: Roy's Blog
 email: roy60404@gmail.com
-description: 一位熱愛自然與技術的數位遊牧者，專注於教育、內容創作與資訊應用。
+description: A nature-loving and tech-driven digital nomad dedicated to education, creative content, and information solutions.
 github_username: roy891030
 
 

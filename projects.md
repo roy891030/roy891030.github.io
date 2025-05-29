@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 我的專案
+title: My Projects
 permalink: /projects/
 ---
 
-## GitHub 作品集
+## GitHub Portfolio
 
-- [旅遊地圖應用](https://github.com/你的帳號/地圖專案)：以 Leaflet.js 製作互動地圖
-- [學習筆記部落格](https://github.com/你的帳號/blog)：Jekyll 建置的技術寫作網站
-- [Notion 教學模組](https://github.com/你的帳號/notion-course)：教學用模組與腳本
+- [Travel Map App](https://github.com/your-username/map-project): An interactive map built with Leaflet.js  
+- [Learning Notes Blog](https://github.com/your-username/blog): A technical writing site powered by Jekyll  
+- [Notion Teaching Modules](https://github.com/your-username/notion-course): Educational modules and scripts for teaching
