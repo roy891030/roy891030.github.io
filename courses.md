@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 教學方案
+title: my courses
 permalink: /courses/
 ---
 

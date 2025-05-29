@@ -25,7 +25,7 @@ github_username: roy891030
 
 
 # Build settings
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
 
@@ -66,3 +66,5 @@ header_pages:
   - projects.md
   - blog.md
   - about.md
+
+keep_files: ["assets"]
