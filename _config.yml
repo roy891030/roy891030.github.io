@@ -68,3 +68,5 @@ header_pages:
   - about.md
 
 keep_files: ["assets"]
+
+future: true
