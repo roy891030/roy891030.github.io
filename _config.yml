@@ -23,6 +23,9 @@ email: roy60404@gmail.com
 description: A nature-loving and tech-driven digital nomad dedicated to education, creative content, and information solutions.
 github_username: roy891030
 
+baseurl: "/my-portfolio"
+url: "https://yourusername.github.io"
+
 
 # Build settings
 #theme: minima
