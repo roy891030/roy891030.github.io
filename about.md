@@ -23,7 +23,11 @@ Notable experiences:
 📧 Let’s collaborate: <span style="background-color: #fff3b0;">roy60404@gmail.com</span>  
 🌐 [GitHub](https://github.com/roy891030)
 
-## Education
+<div style="position: relative; margin-bottom: 1rem;">
+  <h2 style="position: relative; z-index: 1;">Education</h2>
+  <img src="/assets/images/school1.png" alt="NYCU Seal" style="position: absolute; top: -10px; left: 150px; width: 60px; opacity: 1; transform: rotate(-5deg); z-index: 0;">
+  <img src="/assets/images/school2.png" alt="NSYSU Seal" style="position: absolute; top: 10px; left: 220px; width: 60px; opacity: 0.9; transform: rotate(8deg); z-index: 0;">
+</div>
 
 **NYCU – M.S. in Information Management and Finance (Data Science Program)**  
 _Sept 2024 – Present_  
