@@ -3,7 +3,7 @@ layout: default
 title: 
 ---
 
-<h1>👋 Hi, I'm Lo Yi</h1>
+<h1>👋 Hi, I'm Lo Yi！</h1>
 
 <p>A digital nomad passionate about nature and technology, focused on education, content creation, and information applications.</p>
 
