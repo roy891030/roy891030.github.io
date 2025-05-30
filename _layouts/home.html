@@ -16,11 +16,18 @@ layout: default
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
+            <h3 style="display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+              {%- if post.tags -%}
+                <span style="font-size: 0.85rem;">
+                  {%- for tag in post.tags -%}
+                      <a href="{{ site.baseurl }}/tags/{{ tag | slugify }}/" style="color: #4d310b;">#{{ tag }}</a>
+                  {%- endfor -%}
+                </span>
+              {%- endif -%}
+            </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}

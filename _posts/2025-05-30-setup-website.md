@@ -2,6 +2,7 @@
 layout: post
 title: "頤起來架站！"
 date: 2025-05-30
+tags: [IT]
 ---
 # 架設 GitHub Pages 個人網站（`yourname.github.io`）完整教學筆記
 

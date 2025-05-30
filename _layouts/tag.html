@@ -2,15 +2,12 @@
 layout: default
 ---
 
-<h2>Posts tagged with <code>#{{ page.tag }}</code></h2>
+<h1>Posts tagged with "{{ page.tag }}"</h1>
 
 <ul>
   {% for post in site.posts %}
     {% if post.tags contains page.tag %}
-      <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        <span style="color: gray;"> – {{ post.date | date: "%b %-d, %Y" }}</span>
-      </li>
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
