@@ -19,13 +19,13 @@ layout: default
   {{ content }}
 </div>
 
-{% if page.tags %}
-  <p style="margin-top: 2rem;">Tags:
-    {% for tag in page.tags %}
-      <a href="{{ site.baseurl }}/tags/{{ tag | slugify }}/" style="text-decoration: none; margin-right: 0.5em; color: #3182ce;">#{{ tag }}</a>
-    {% endfor %}
-  </p>
-{% endif %}
+  {% if page.tags %}
+    <p style="margin-top: 2rem;">Tags:
+      {% for tag in page.tags %}
+        <a href="{{ site.baseurl }}/tags/{{ tag | slugify }}/" style="text-decoration: none; margin-right: 0.5em; color: #3182ce;">#{{ tag }}</a>
+      {% endfor %}
+    </p>
+  {% endif %}
 
 
   {%- if site.disqus.shortname -%}
