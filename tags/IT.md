@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag: IT
-permalink: /tags/IT/
+permalink: /tags/it/
 ---
