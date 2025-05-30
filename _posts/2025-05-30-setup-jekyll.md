@@ -2,7 +2,7 @@
 layout: post
 title: "jekyll_:D"
 date: 2025-05-30
-tags: [IT]
+tags: [IT,jekyll]
 ---
 # Jekyll 網站檔案與模板細部細解
 
