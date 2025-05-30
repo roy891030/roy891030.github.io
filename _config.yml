@@ -19,9 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Roy's Blog
+author: Lo, Yi
 email: roy60404@gmail.com
 description: A nature-loving and tech-driven digital nomad dedicated to education, creative content, and information solutions.
 github_username: roy891030
+instagram_username: roy._.e
+youtube_username: '@LoYi-h7i'
 
 baseurl: ""
 url: "https://roy891030.github.io"

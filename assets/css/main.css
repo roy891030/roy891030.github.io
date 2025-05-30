@@ -733,3 +733,23 @@ button:hover, .btn:hover {
   background-color: #86B0B9;
 }
 
+.footer-col-2 a {
+  color: #E1E0C9; /* 改成你想要的亮色，比如亮金色 */
+}
+
+.footer-col-2 a:hover {
+  color: #fff3b0; /* 滑鼠移過去變柔和黃色 */
+}
+
+.footer-col-2 svg {
+  fill: #E1E0C9; /* 改變社群 icon 的顏色（如果是 inline SVG） */
+}
+
+a.u-email {
+  color: #E1E0C9; /* 改成你想要的亮色，例如亮藍色 */
+  text-decoration: none;
+}
+
+a.u-email:hover {
+  color: #fff3b0; /* 滑過時的顏色，也可以調整 */
+}
