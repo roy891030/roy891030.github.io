@@ -17,7 +17,7 @@ pre, code {
 
 @font-face {
   font-family: 'ChineseFont';
-  src: url('/assets/fonts/crayonCinese.ttf') format('truetype');
+  src: url('/assets/fonts/chinese.ttf') format('truetype');
   unicode-range: U+4E00-9FFF; /* 常用中日韓統一表意文字 */
 }
 
