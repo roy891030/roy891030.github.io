@@ -15,9 +15,18 @@ layout: default
       {%- endif -%}</p>
   </header>
 
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
-  </div>
+<div class="post-content e-content" itemprop="articleBody">
+  {{ content }}
+</div>
+
+{% if page.tags %}
+  <p style="margin-top: 2rem;">Tags:
+    {% for tag in page.tags %}
+      <a href="{{ site.baseurl }}/tags/{{ tag | slugify }}/" style="text-decoration: none; margin-right: 0.5em; color: #3182ce;">#{{ tag }}</a>
+    {% endfor %}
+  </p>
+{% endif %}
+
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
