@@ -11,15 +11,28 @@ pre, code {
 
 @font-face {
   font-family: 'CrayonEnglish';
-  src: url('/assets/fonts/crayon.ttf') format('truetype');
+  src: url('/assets/fonts/fanyuan.ttf') format('truetype');
   unicode-range: U+0020-007E; /* 基本拉丁字元 (英文) */
 }
 
 @font-face {
   font-family: 'ChineseFont';
-  src: url('/assets/fonts/HanyiSentyPastel.ttf') format('truetype');
+  src: url('/assets/fonts/fanyuan.ttf') format('truetype');
   unicode-range: U+4E00-9FFF; /* 常用中日韓統一表意文字 */
 }
+
+@font-face {
+  font-family: 'CrayonFont';
+  src: url('/assets/fonts/crayon.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.site-title {
+  font-family: 'CrayonFont', sans-serif;
+  font-size: 24px;
+}
+
 
 body {
   font-family:  'ChineseFont','CrayonEnglish', sans-serif;
