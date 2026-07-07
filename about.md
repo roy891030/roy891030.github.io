@@ -35,6 +35,16 @@ _Sept 2024 – Present_
 - Research: Using deep learning and financial engineering to predict stock trading signals in Taiwan  
 - Key Courses: Machine Learning in FinTech, Data Mining, AI Theory & Practice
 
+## Honors & Awards
+
+- **Honor Student Award, NYCU** - 2024 Academic Year, First Semester; awarded on May 5, 2025.
+- **Honor Student Award, NYCU** - 2024 Academic Year, Second Semester; awarded on November 24, 2025.
+- **Shanghai Commercial Bank Cultural and Educational Foundation Scholarship** - awarded on January 15, 2026.
+- **AFMA MA Global Outstanding Award** - Advanced Financial Management Association, June 29 - July 3, 2026.
+- **Phi Tau Phi Scholastic Honor Society Honorary Member** - selected by the NYCU chapter on June 1, 2026.
+- **Hsinchu Chairman Cup National Martial Arts Championship** - 65kg division, first place, November 8, 2025.
+- **Hsinchu Mayor Cup National Martial Arts Championship** - 70kg division, third place, April 25, 2026.
+
 **NSYSU – B.S. in Information Management**  
 _Aug 2019 – Jun 2024_  
 - Honors: Certificate of Excellence (2019), 2nd Place in ICT Innovative Services Awards (2022)

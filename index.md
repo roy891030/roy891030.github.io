@@ -32,20 +32,20 @@ title:
 
   <div class="impact-strip reveal" aria-label="Portfolio highlights">
     <div>
-      <strong>4.3</strong>
-      <span>NYCU GPA</span>
+      <strong>2x</strong>
+      <span>NYCU Honor Student awards in the 2024 academic year</span>
     </div>
     <div>
-      <strong>3.5x</strong>
-      <span>ML accuracy lift in coursework project</span>
+      <strong>AFMA</strong>
+      <span>MA Global Outstanding Award in 2026</span>
     </div>
     <div>
-      <strong>2nd</strong>
-      <span>ICT Innovative Services Awards</span>
+      <strong>Phi Tau Phi</strong>
+      <span>Honorary member selected by NYCU chapter</span>
     </div>
     <div>
-      <strong>8</strong>
-      <span>lesson data learning tracks</span>
+      <strong>1st / 3rd</strong>
+      <span>National martial arts tournament podium finishes</span>
     </div>
   </div>
 
@@ -55,22 +55,79 @@ title:
       <h2>From portfolio list to living profile.</h2>
       <p>
         This redesign reframes the site around what is now strongest in the profile:
-        FinTech research, applied data science, teaching products, and public writing.
+        FinTech research, applied data science, teaching products, academic honors,
+        and the discipline that comes from competing outside the classroom.
       </p>
     </div>
 
     <div class="signal-panel reveal">
       <div class="signal-row">
+        <span>Academic honors</span>
+        <b>Honor Student awards, Phi Tau Phi, and foundation scholarship</b>
+      </div>
+      <div class="signal-row">
         <span>Financial signal research</span>
         <b>Deep learning + market behavior</b>
       </div>
       <div class="signal-row">
-        <span>Education systems</span>
-        <b>Python, data literacy, learning portfolios</b>
+        <span>Financial certification</span>
+        <b>AFMA MA Global Outstanding Award</b>
       </div>
       <div class="signal-row">
-        <span>Creative technology</span>
-        <b>Storytelling, tools, workshops</b>
+        <span>Martial arts</span>
+        <b>65kg champion and 70kg third-place finisher</b>
+      </div>
+    </div>
+  </section>
+
+  <section class="award-section" aria-label="Certificate carousel">
+    <div class="section-heading reveal">
+      <p class="section-kicker">New Milestones</p>
+      <h2>Certificates that spin like a tiny achievement gallery.</h2>
+      <p class="section-note">Click a certificate or use the arrows to rotate the stack.</p>
+    </div>
+
+    <div class="award-playground reveal" data-award-carousel>
+      <div class="award-copy">
+        <span class="award-count" data-award-count>1 / 7</span>
+        <h3 data-award-title>Honor Student Award</h3>
+        <p data-award-meta>May 5, 2025 - 2024 Academic Year, First Semester</p>
+      </div>
+
+      <div class="award-wheel" aria-live="polite">
+        <button class="award-card is-active" type="button" data-index="0" aria-label="Show Honor Student Award, first semester">
+          <img src="/assets/images/awards/academic-honor-2025-first-semester.webp" alt="NYCU Honor Student Award for the first semester of the 2024 academic year" />
+          <span>May 5, 2025</span>
+        </button>
+        <button class="award-card" type="button" data-index="1" aria-label="Show Honor Student Award, second semester">
+          <img src="/assets/images/awards/academic-honor-2025-second-semester.webp" alt="NYCU Honor Student Award for the second semester of the 2024 academic year" />
+          <span>Nov 24, 2025</span>
+        </button>
+        <button class="award-card" type="button" data-index="2" aria-label="Show Shanghai Commercial Bank Foundation scholarship">
+          <img src="/assets/images/awards/shanghai-commercial-bank-scholarship-2026.webp" alt="Shanghai Commercial Bank Cultural and Educational Foundation scholarship certificate" />
+          <span>Jan 15, 2026</span>
+        </button>
+        <button class="award-card" type="button" data-index="3" aria-label="Show AFMA MA Global Outstanding Award">
+          <img src="/assets/images/awards/afma-ma-global-outstanding-award-2026.webp" alt="AFMA MA Global Outstanding Award certificate" />
+          <span>Jul 3, 2026</span>
+        </button>
+        <button class="award-card" type="button" data-index="4" aria-label="Show Phi Tau Phi honorary membership">
+          <img src="/assets/images/awards/phi-tau-phi-honor-member-2026.webp" alt="Phi Tau Phi Scholastic Honor Society honorary membership certificate" />
+          <span>Jun 1, 2026</span>
+        </button>
+        <button class="award-card" type="button" data-index="5" aria-label="Show 65kg martial arts first place certificate">
+          <img src="/assets/images/awards/martial-arts-2025-first-place-65kg.webp" alt="2025 Hsinchu Chairman Cup national martial arts 65kg first place certificate" />
+          <span>Nov 8, 2025</span>
+        </button>
+        <button class="award-card" type="button" data-index="6" aria-label="Show 70kg martial arts third place certificate">
+          <img src="/assets/images/awards/martial-arts-2026-third-place-70kg.webp" alt="2026 Hsinchu Mayor Cup national martial arts 70kg third place certificate" />
+          <span>Apr 25, 2026</span>
+        </button>
+      </div>
+
+      <div class="award-controls" aria-label="Certificate controls">
+        <button type="button" class="award-control" data-award-prev aria-label="Previous certificate">‹</button>
+        <button type="button" class="award-control" data-award-next aria-label="Next certificate">›</button>
       </div>
     </div>
   </section>
@@ -123,6 +180,41 @@ title:
         <time>2024 - Now</time>
         <h3>Studying data science at NYCU</h3>
         <p>Focusing on machine learning in FinTech, data mining, and stock trading signal prediction.</p>
+      </div>
+      <div class="timeline-item reveal">
+        <time>May 5, 2025</time>
+        <h3>Received NYCU Honor Student Award</h3>
+        <p>Recognized by NYCU for the first semester of the 2024 academic year.</p>
+      </div>
+      <div class="timeline-item reveal">
+        <time>Nov 8, 2025</time>
+        <h3>Won 65kg first place in national martial arts</h3>
+        <p>Placed first in the 65kg division at the Hsinchu Chairman Cup national martial arts championship.</p>
+      </div>
+      <div class="timeline-item reveal">
+        <time>Nov 24, 2025</time>
+        <h3>Received second NYCU Honor Student Award</h3>
+        <p>Recognized again for the second semester of the 2024 academic year.</p>
+      </div>
+      <div class="timeline-item reveal">
+        <time>Jan 15, 2026</time>
+        <h3>Awarded Shanghai Commercial Bank Foundation scholarship</h3>
+        <p>Received the Shanghai Commercial Bank Cultural and Educational Foundation scholarship.</p>
+      </div>
+      <div class="timeline-item reveal">
+        <time>Apr 25, 2026</time>
+        <h3>Placed third in the 70kg martial arts division</h3>
+        <p>Earned third place at the Hsinchu Mayor Cup national martial arts championship.</p>
+      </div>
+      <div class="timeline-item reveal">
+        <time>Jun 1, 2026</time>
+        <h3>Selected as a Phi Tau Phi honorary member</h3>
+        <p>Selected by the NYCU chapter for academic excellence.</p>
+      </div>
+      <div class="timeline-item reveal">
+        <time>Jun 29 - Jul 3, 2026</time>
+        <h3>Earned AFMA MA Global Outstanding Award</h3>
+        <p>Completed AFMA senior financial management training and received the MA Global Outstanding Award.</p>
       </div>
       <div class="timeline-item reveal">
         <time>Next</time>
@@ -220,5 +312,99 @@ title:
     });
     resize();
     draw();
+  })();
+
+  (function () {
+    var carousel = document.querySelector('[data-award-carousel]');
+    if (!carousel) return;
+
+    var cards = Array.prototype.slice.call(carousel.querySelectorAll('.award-card'));
+    var title = carousel.querySelector('[data-award-title]');
+    var meta = carousel.querySelector('[data-award-meta]');
+    var count = carousel.querySelector('[data-award-count]');
+    var previous = carousel.querySelector('[data-award-prev]');
+    var next = carousel.querySelector('[data-award-next]');
+    var active = 0;
+    var awards = [
+      {
+        title: 'Honor Student Award',
+        meta: 'May 5, 2025 - 2024 Academic Year, First Semester'
+      },
+      {
+        title: 'Honor Student Award',
+        meta: 'November 24, 2025 - 2024 Academic Year, Second Semester'
+      },
+      {
+        title: 'Shanghai Commercial Bank Foundation Scholarship',
+        meta: 'January 15, 2026 - Cultural and Educational Foundation scholarship'
+      },
+      {
+        title: 'AFMA MA Global Outstanding Award',
+        meta: 'June 29 - July 3, 2026 - Advanced Financial Management Association'
+      },
+      {
+        title: 'Phi Tau Phi Honorary Member',
+        meta: 'June 1, 2026 - Selected by the NYCU chapter'
+      },
+      {
+        title: 'Martial Arts Champion',
+        meta: 'November 8, 2025 - Chairman Cup, 65kg division, first place'
+      },
+      {
+        title: 'Martial Arts Podium Finish',
+        meta: 'April 25, 2026 - Mayor Cup, 70kg division, third place'
+      }
+    ];
+
+    function shortestOffset(index) {
+      var offset = index - active;
+      var half = cards.length / 2;
+      if (offset > half) offset -= cards.length;
+      if (offset < -half) offset += cards.length;
+      return offset;
+    }
+
+    function render() {
+      cards.forEach(function (card, index) {
+        var offset = shortestOffset(index);
+        var distance = Math.abs(offset);
+        card.style.setProperty('--offset', offset);
+        card.style.setProperty('--distance', distance);
+        card.classList.toggle('is-active', index === active);
+        card.setAttribute('aria-pressed', index === active ? 'true' : 'false');
+        card.tabIndex = distance > 3 ? -1 : 0;
+      });
+      title.textContent = awards[active].title;
+      meta.textContent = awards[active].meta;
+      count.textContent = (active + 1) + ' / ' + cards.length;
+    }
+
+    cards.forEach(function (card, index) {
+      card.addEventListener('click', function () {
+        active = index;
+        render();
+      });
+    });
+
+    previous.addEventListener('click', function () {
+      active = (active - 1 + cards.length) % cards.length;
+      render();
+    });
+
+    next.addEventListener('click', function () {
+      active = (active + 1) % cards.length;
+      render();
+    });
+
+    carousel.addEventListener('keydown', function (event) {
+      if (event.key === 'ArrowLeft') {
+        previous.click();
+      }
+      if (event.key === 'ArrowRight') {
+        next.click();
+      }
+    });
+
+    render();
   })();
 </script>
