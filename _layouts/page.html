@@ -4,7 +4,7 @@ layout: default
 <article class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <h1 class="post-title"{% if page.title_en and page.title_zh %} data-en="{{ page.title_en | escape }}" data-zh="{{ page.title_zh | escape }}"{% endif %}>{{ page.title | escape }}</h1>
   </header>
 
   <div class="post-content">

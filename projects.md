@@ -1,36 +1,38 @@
 ---
 layout: page
 title: My Projects
+title_en: My Projects
+title_zh: 專案
 permalink: /projects/
 ---
 
-## <span class="reveal">Machine Learning & Data Science Projects</span>
+## <span data-en="Machine Learning &amp; Data Science Projects" data-zh="機器學習與資料科學專案">Machine Learning &amp; Data Science Projects</span>
 
-- <span class="reveal" style="color:#1e90ff; font-size: 1.4em; font-weight: bold;">FinTech & ML Project | Time Series Analysis for Consumer Behavior Prediction</span>  
-  <span class="reveal" style="color:#00509e;">Grade: <span style="color:#d94c4c;">A+</span><br>Sep 2024 – Jan 2025</span>  
-  <span class="reveal">A hybrid KNN-LSTM model to predict consumer behavior using time series and transaction data. Achieved 3.5x accuracy over baseline deep learning models.</span>  
-  👉 <span class="reveal">[GitHub Repo](https://github.com/roy891030/Forecasting-Consumer-Spending-Amounts-Using-Machine-Learning-and-Time-Series-Analysis)</span>
+- <span class="project-title" data-en="FinTech &amp; ML Project | Time Series Analysis for Consumer Behavior Prediction" data-zh="金融科技與機器學習專案｜消費行為時間序列預測">FinTech &amp; ML Project | Time Series Analysis for Consumer Behavior Prediction</span>
+  <span class="project-meta" data-en="Grade: A+ | Sep 2024 - Jan 2025" data-zh="成績：A+｜2024 年 9 月至 2025 年 1 月">Grade: A+ | Sep 2024 - Jan 2025</span>
+  <span data-en="I built a hybrid KNN-LSTM model for time-series and transaction behavior prediction, improving accuracy by 3.5x over baseline deep learning models." data-zh="我以 KNN-LSTM 混合模型處理時間序列與交易行為預測，準確率相較基準深度學習模型提升 3.5 倍。">I built a hybrid KNN-LSTM model for time-series and transaction behavior prediction, improving accuracy by 3.5x over baseline deep learning models.</span>
+  <a href="https://github.com/roy891030/Forecasting-Consumer-Spending-Amounts-Using-Machine-Learning-and-Time-Series-Analysis" data-en="GitHub Repo" data-zh="GitHub 專案">GitHub Repo</a>
 
-- <span class="reveal" style="color:#1e90ff; font-size: 1.4em; font-weight: bold;">Data Mining Projects</span>  
-  <span class="reveal" style="color:#00509e;">Grade: <span style="color:#d94c4c;">A+</span><br>Sep 2024 – Jan 2025</span>  
-  <span class="reveal">Includes sentiment analysis (Amazon, Yelp), air pollution regression, and a movie recommendation system using matrix factorization and collaborative filtering.</span>  
-  👉 <span class="reveal">[GitHub Repo](https://github.com/roy891030/11301_NYCU_dataMining)</span>
+- <span class="project-title" data-en="Data Mining Projects" data-zh="資料探勘專案">Data Mining Projects</span>
+  <span class="project-meta" data-en="Grade: A+ | Sep 2024 - Jan 2025" data-zh="成績：A+｜2024 年 9 月至 2025 年 1 月">Grade: A+ | Sep 2024 - Jan 2025</span>
+  <span data-en="I practiced sentiment analysis, air-pollution regression, and recommendation systems with matrix factorization and collaborative filtering." data-zh="我完成情緒分析、空氣污染迴歸、矩陣分解與協同過濾推薦系統等資料探勘練習。">I practiced sentiment analysis, air-pollution regression, and recommendation systems with matrix factorization and collaborative filtering.</span>
+  <a href="https://github.com/roy891030/11301_NYCU_dataMining" data-en="GitHub Repo" data-zh="GitHub 專案">GitHub Repo</a>
 
-## <span class="reveal">Visualization & Web Apps</span>
+## <span data-en="Visualization &amp; Web Apps" data-zh="資料視覺化與網頁應用">Visualization &amp; Web Apps</span>
 
-- <span class="reveal" style="color:#1e90ff; font-size: 1.4em; font-weight: bold;">Data Visualization Project | Business Location Visualization Selection System</span>  
-  <span class="reveal" style="color:#00509e;">2nd Place, International ICT Innovative Services Awards 2022<br>Feb 2022 – Jan 2023</span>  
-  <span class="reveal">Award-winning Vue.js application with real-time competitor tracking and market trend visualization using Google Maps API.</span>  
-  👉 <span class="reveal">[Demo Video](https://www.youtube.com/watch?v=KlLPIF9VngA)</span>
+- <span class="project-title" data-en="Data Visualization Project | Business Location Visualization Selection System" data-zh="資料視覺化專案｜商業選址視覺化系統">Data Visualization Project | Business Location Visualization Selection System</span>
+  <span class="project-meta" data-en="2nd Place, International ICT Innovative Services Awards 2022 | Feb 2022 - Jan 2023" data-zh="2022 ICT 創新服務競賽第二名｜2022 年 2 月至 2023 年 1 月">2nd Place, International ICT Innovative Services Awards 2022 | Feb 2022 - Jan 2023</span>
+  <span data-en="I worked on a Vue and Google Maps based visualization system for competitor tracking and market trend observation." data-zh="我參與以 Vue 與 Google Maps 建置的視覺化系統，用於競品追蹤與商圈趨勢觀察。">I worked on a Vue and Google Maps based visualization system for competitor tracking and market trend observation.</span>
+  <a href="https://www.youtube.com/watch?v=KlLPIF9VngA" data-en="Demo Video" data-zh="Demo 影片">Demo Video</a>
 
-- <span class="reveal" style="color:#1e90ff; font-size: 1.4em; font-weight: bold;">Grade Management System</span>  
-  <span class="reveal" style="color:#00509e;">Jan 2025</span>  
-  <span class="reveal">Designed for elementary school teachers. Integrates automated visual reporting with simple UI for efficient performance tracking.</span>  
-  👉 <span class="reveal">[GitHub Repo](https://github.com/roy891030/grade-system)</span>
+- <span class="project-title" data-en="Grade Management System" data-zh="成績管理系統">Grade Management System</span>
+  <span class="project-meta" data-en="Jan 2025" data-zh="2025 年 1 月">Jan 2025</span>
+  <span data-en="I designed this tool for elementary school teachers, combining automated reporting and visual feedback for student performance tracking." data-zh="我為國小老師設計這套工具，結合自動化報表與視覺化回饋，協助追蹤學生表現。">I designed this tool for elementary school teachers, combining automated reporting and visual feedback for student performance tracking.</span>
+  <a href="https://github.com/roy891030/grade-system" data-en="GitHub Repo" data-zh="GitHub 專案">GitHub Repo</a>
 
-## <span class="reveal">Educational & Community Projects</span>
+## <span data-en="Educational &amp; Community Projects" data-zh="教學與社群專案">Educational &amp; Community Projects</span>
 
-- <span class="reveal" style="color:#1e90ff; font-size: 1.4em; font-weight: bold;">Git Workshop (Hahow Campus Ambassador)</span>  
-  <span class="reveal" style="color:#00509e;">Mar 2022 – Jul 2022</span>  
-  <span class="reveal">Designed and led an interactive Git & GitHub learning session for students new to version control.</span>  
-  👉 <span class="reveal">[GitHub Repo](https://www.youtube.com/watch?v=DMU7okLevNE)</span>
+- <span class="project-title" data-en="Git Workshop (Hahow Campus Ambassador)" data-zh="Git 工作坊（Hahow 校園大使）">Git Workshop (Hahow Campus Ambassador)</span>
+  <span class="project-meta" data-en="Mar 2022 - Jul 2022" data-zh="2022 年 3 月至 2022 年 7 月">Mar 2022 - Jul 2022</span>
+  <span data-en="I designed and led an interactive Git and GitHub workshop for students who were new to version control." data-zh="我設計並帶領 Git 與 GitHub 互動式工作坊，協助初學者理解版本控制。">I designed and led an interactive Git and GitHub workshop for students who were new to version control.</span>
+  <a href="https://www.youtube.com/watch?v=DMU7okLevNE" data-en="Workshop Link" data-zh="工作坊連結">Workshop Link</a>
