@@ -7,11 +7,11 @@ permalink: /courses/
 ---
 
 <p>
-  <span data-en="I currently offer the following teaching plans. Each class includes a hands-on theme and is suitable for learning portfolios, beginner projects, and project-based practice." data-zh="我目前開設以下教學方案。每堂課都安排實作主題，適合用於學習歷程、入門專案與專題練習。">I currently offer the following teaching plans. Each class includes a hands-on theme and is suitable for learning portfolios, beginner projects, and project-based practice.</span>
+  <span data-en="Current teaching plans are designed around hands-on themes and are suitable for learning portfolios, beginner projects, and project-based practice." data-zh="目前教學方案以實作主題設計，適合用於學習歷程、入門專案與專題練習。">Current teaching plans are designed around hands-on themes and are suitable for learning portfolios, beginner projects, and project-based practice.</span>
 </p>
 
 <p>
-  <span data-en="For collaboration or private tutoring, feel free to contact me through the form below." data-zh="如果想討論合作或家教課程，歡迎透過下方表單聯絡我。">For collaboration or private tutoring, feel free to contact me through the form below.</span>
+  <span data-en="For collaboration or private tutoring, please use the form below." data-zh="若想討論合作或家教課程，歡迎透過下方表單聯絡。">For collaboration or private tutoring, please use the form below.</span>
 </p>
 
 ### <span data-en="Python Data Applications Fundamentals (8 classes, $800/hr, for high school students and beginners)" data-zh="Python 資料應用基礎班（共 8 堂，$800／hr，適合高中生與零基礎入門）">Python Data Applications Fundamentals (8 classes, $800/hr, for high school students and beginners)</span>
@@ -30,7 +30,7 @@ permalink: /courses/
       <td><span data-en="Class 1-2" data-zh="第 1-2 堂">Class 1-2</span></td>
       <td><span data-en="Python basics and interest data input" data-zh="Python 基礎與興趣資料輸入">Python basics and interest data input</span></td>
       <td><span data-en="Variables, data types, print, and input" data-zh="變數、資料型別、print、input">Variables, data types, print, and input</span></td>
-      <td><span data-en="Interest Q&amp;A app with interactive questions and text processing" data-zh="我的興趣問答小程式：互動式問答、文字處理">Interest Q&amp;A app with interactive questions and text processing</span></td>
+      <td><span data-en="Interest Q&amp;A app with interactive questions and text processing" data-zh="興趣問答小程式：互動式問答、文字處理">Interest Q&amp;A app with interactive questions and text processing</span></td>
     </tr>
     <tr>
       <td><span data-en="Class 3-4" data-zh="第 3-4 堂">Class 3-4</span></td>

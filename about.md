@@ -11,14 +11,14 @@ permalink: /about/
 ## <span data-en="Self-Introduction" data-zh="自我介紹">Self-Introduction</span>
 
 <p>
-  <span data-en="Hi, I'm Lo Yi. I enjoy nature, technology, teaching, and the process of turning ideas into useful tools." data-zh="嗨，我是羅頤。我喜歡大自然、科技、教學，也喜歡把想法做成可以真正被使用的工具。">Hi, I'm Lo Yi. I enjoy nature, technology, teaching, and the process of turning ideas into useful tools.</span>
+  <span data-en="Lo Yi is a data science graduate student working at the intersection of nature-inspired thinking, technology, teaching, and practical tool building." data-zh="羅頤是資料科學研究生，關注大自然帶來的觀察方式、科技應用、教學設計與實用工具開發。">Lo Yi is a data science graduate student working at the intersection of nature-inspired thinking, technology, teaching, and practical tool building.</span>
 </p>
 
 <p>
-  <span data-en="Programming is one of my creative methods. I use it to organize information, reduce repetitive work, and make learning easier to enter." data-zh="程式是我的創作方式之一。我用它整理資訊、減少重複工作，也讓學習變得更容易開始。">Programming is one of my creative methods. I use it to organize information, reduce repetitive work, and make learning easier to enter.</span>
+  <span data-en="Programming is used as a creative and analytical method: organizing information, reducing repetitive work, and lowering the barrier to learning." data-zh="程式被用作創作與分析的方法：整理資訊、減少重複工作，也降低學習門檻。">Programming is used as a creative and analytical method: organizing information, reducing repetitive work, and lowering the barrier to learning.</span>
 </p>
 
-<p><strong data-en="I care about:" data-zh="我重視：">I care about:</strong></p>
+<p><strong data-en="Core interests:" data-zh="核心關注：">Core interests:</strong></p>
 
 - <span data-en="Sharing knowledge through clear examples and hands-on practice." data-zh="用清楚的範例與實作，把知識分享出去。">Sharing knowledge through clear examples and hands-on practice.</span>
 - <span data-en="Building tools that help people understand data and decisions." data-zh="設計能幫助人理解資料與決策的工具。">Building tools that help people understand data and decisions.</span>
@@ -26,8 +26,8 @@ permalink: /about/
 
 <p><strong data-en="Selected experiences:" data-zh="代表經歷：">Selected experiences:</strong></p>
 
-- <span data-en="I designed a grade management system for my elementary school teacher mom, using data visualization to reduce manual reporting work." data-zh="我為擔任國小老師的媽媽設計成績管理系統，用資料視覺化減少手動整理報表的時間。">I designed a grade management system for my elementary school teacher mom, using data visualization to reduce manual reporting work.</span>
-- <span data-en="I led a Git workshop as a Hahow Campus Ambassador and helped beginners build version-control confidence." data-zh="我曾以 Hahow 校園大使身份帶領 Git 工作坊，協助初學者建立版本控制的基礎。">I led a Git workshop as a Hahow Campus Ambassador and helped beginners build version-control confidence.</span>
+- <span data-en="Designed a grade management system for an elementary school teacher, using data visualization to reduce manual reporting work." data-zh="為國小教師設計成績管理系統，透過資料視覺化減少手動整理報表的時間。">Designed a grade management system for an elementary school teacher, using data visualization to reduce manual reporting work.</span>
+- <span data-en="Led a Git workshop as a Hahow Campus Ambassador, helping beginners build version-control confidence." data-zh="以 Hahow 校園大使身份帶領 Git 工作坊，協助初學者建立版本控制基礎。">Led a Git workshop as a Hahow Campus Ambassador, helping beginners build version-control confidence.</span>
 
 <p>
   <span data-en="Collaboration email:" data-zh="合作信箱：">Collaboration email:</span>
