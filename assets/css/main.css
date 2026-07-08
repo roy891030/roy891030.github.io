@@ -3518,3 +3518,91 @@ button.hero-btn {
     backdrop-filter: blur(4px);
   }
 }
+
+/* === Homepage Spacing Refinement === */
+.hero-stage {
+  min-height: auto;
+  align-items: center;
+  padding-top: 72px;
+  padding-bottom: 56px;
+}
+
+.impact-strip {
+  margin-bottom: 72px;
+}
+
+.story-grid,
+.award-section,
+.case-section,
+.timeline-section,
+.portal-section {
+  padding-bottom: 72px;
+}
+
+.section-heading {
+  margin-bottom: 24px;
+}
+
+.case-grid {
+  align-items: stretch;
+}
+
+.case-card {
+  display: grid;
+  min-height: 300px;
+  grid-template-rows: auto minmax(64px, auto) auto;
+  align-content: start;
+  gap: 14px;
+}
+
+.case-card .case-type,
+.portal-section span {
+  width: fit-content;
+  margin-bottom: 0;
+}
+
+.case-card h3,
+.case-card p {
+  margin-bottom: 0;
+}
+
+.portal-section a {
+  min-height: 126px;
+  align-content: start;
+  gap: 10px;
+}
+
+@media screen and (max-width: 900px) {
+  .hero-stage {
+    padding-top: 60px;
+    padding-bottom: 48px;
+  }
+
+  .case-card {
+    min-height: 0;
+    grid-template-rows: auto auto auto;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .hero-stage {
+    padding-top: 44px;
+    padding-bottom: 36px;
+  }
+
+  .impact-strip {
+    margin-bottom: 52px;
+  }
+
+  .story-grid,
+  .award-section,
+  .case-section,
+  .timeline-section,
+  .portal-section {
+    padding-bottom: 56px;
+  }
+
+  .portal-section a {
+    min-height: 104px;
+  }
+}
