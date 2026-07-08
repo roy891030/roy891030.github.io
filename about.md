@@ -11,23 +11,24 @@ permalink: /about/
 ## <span data-en="Self-Introduction" data-zh="自我介紹">Self-Introduction</span>
 
 <p>
-  <span data-en="Lo Yi is a data science graduate student working at the intersection of nature-inspired thinking, technology, teaching, and practical tool building." data-zh="羅頤是資料科學研究生，關注大自然帶來的觀察方式、科技應用、教學設計與實用工具開發。">Lo Yi is a data science graduate student working at the intersection of nature-inspired thinking, technology, teaching, and practical tool building.</span>
+  <span data-en="Lo Yi is a data science graduate student, content creator, and remote-work-oriented learner who likes to observe details in everyday life and turn them into clearer systems or better decisions." data-zh="羅頤是資料科學研究生、內容創作者，也喜歡遠端工作的生活方式。我喜歡觀察生活中的細節，並把它們拆解成更清楚的系統或更好的決策。">Lo Yi is a data science graduate student, content creator, and remote-work-oriented learner who likes to observe details in everyday life and turn them into clearer systems or better decisions.</span>
 </p>
 
 <p>
-  <span data-en="Programming is used as a creative and analytical method: organizing information, reducing repetitive work, and lowering the barrier to learning." data-zh="程式被用作創作與分析的方法：整理資訊、減少重複工作，也降低學習門檻。">Programming is used as a creative and analytical method: organizing information, reducing repetitive work, and lowering the barrier to learning.</span>
+  <span data-en="Programming is both an analytical method and a creative tool for me: it helps me organize information, test ideas, understand behavior, and build prototypes from practical problems." data-zh="對我來說，程式同時是分析方法與創作工具：它能整理資訊、驗證想法、理解行為，也能把實際問題做成可運作的原型。">Programming is both an analytical method and a creative tool for me: it helps me organize information, test ideas, understand behavior, and build prototypes from practical problems.</span>
 </p>
 
 <p><strong data-en="Core interests:" data-zh="核心關注：">Core interests:</strong></p>
 
-- <span data-en="Sharing knowledge through clear examples and hands-on practice." data-zh="用清楚的範例與實作，把知識分享出去。">Sharing knowledge through clear examples and hands-on practice.</span>
-- <span data-en="Building tools that help people understand data and decisions." data-zh="設計能幫助人理解資料與決策的工具。">Building tools that help people understand data and decisions.</span>
-- <span data-en="Creating content and workshops that make technical topics less distant." data-zh="製作內容與工作坊，讓技術主題變得更親近。">Creating content and workshops that make technical topics less distant.</span>
+- <span data-en="Data science, machine learning, and FinTech applications." data-zh="資料科學、機器學習與金融科技應用。">Data science, machine learning, and FinTech applications.</span>
+- <span data-en="Remote tutoring and learning experiences that make difficult topics easier to approach." data-zh="遠端家教與學習經驗設計，讓困難的主題變得比較容易接近。">Remote tutoring and learning experiences that make difficult topics easier to approach.</span>
+- <span data-en="Video editing, filming, and content creation as another way to explain what I see." data-zh="剪輯、拍攝與內容創作，作為另一種表達觀察的方法。">Video editing, filming, and content creation as another way to explain what I see.</span>
 
 <p><strong data-en="Selected experiences:" data-zh="代表經歷：">Selected experiences:</strong></p>
 
-- <span data-en="Designed a grade management system for an elementary school teacher, using data visualization to reduce manual reporting work." data-zh="為國小教師設計成績管理系統，透過資料視覺化減少手動整理報表的時間。">Designed a grade management system for an elementary school teacher, using data visualization to reduce manual reporting work.</span>
-- <span data-en="Led a Git workshop as a Hahow Campus Ambassador, helping beginners build version-control confidence." data-zh="以 Hahow 校園大使身份帶領 Git 工作坊，協助初學者建立版本控制基礎。">Led a Git workshop as a Hahow Campus Ambassador, helping beginners build version-control confidence.</span>
+- <span data-en="Received NYCU Honor Student awards for both semesters of the 2024 academic year, reflecting consistent responsibility across coursework." data-zh="獲得 113 學年度兩學期陽明交大書卷獎，對我來說這代表每一堂課都負責任地完成。">Received NYCU Honor Student awards for both semesters of the 2024 academic year, reflecting consistent responsibility across coursework.</span>
+- <span data-en="Selected as a Phi Tau Phi honorary member, an academic honor for the top 3% of the graduating class." data-zh="獲選斐陶斐榮譽會員，這是全班前 3% 畢業才能獲得的學術榮譽。">Selected as a Phi Tau Phi honorary member, an academic honor for the top 3% of the graduating class.</span>
+- <span data-en="Placed on the podium in national martial arts competitions, an experience that changed how I face difficulty and practice deliberately." data-zh="在國武術錦標賽獲得名次；這段訓練改變我面對困難與刻意練習的方式。">Placed on the podium in national martial arts competitions, an experience that changed how I face difficulty and practice deliberately.</span>
 
 <p>
   <span data-en="Collaboration email:" data-zh="合作信箱：">Collaboration email:</span>
@@ -46,7 +47,7 @@ permalink: /about/
 _<span data-en="Sept 2024 - Present" data-zh="2024 年 9 月至今">Sept 2024 - Present</span>_
 
 - <span data-en="GPA: 4.3" data-zh="GPA：4.3">GPA: 4.3</span>
-- <span data-en="Research: using deep learning and financial engineering to predict stock trading signals in Taiwan." data-zh="研究方向：結合深度學習與財務工程，預測台股交易訊號。">Research: using deep learning and financial engineering to predict stock trading signals in Taiwan.</span>
+- <span data-en="Thesis research: using graph neural networks to predict stock returns." data-zh="論文研究方向：以圖神經網路預測股價報酬。">Thesis research: using graph neural networks to predict stock returns.</span>
 - <span data-en="Key courses: Machine Learning in FinTech, Data Mining, AI Theory &amp; Practice." data-zh="主要課程：金融科技機器學習、資料探勘、人工智慧理論與實務。">Key courses: Machine Learning in FinTech, Data Mining, AI Theory &amp; Practice.</span>
 
 **<span data-en="NSYSU - B.S. in Information Management" data-zh="國立中山大學 - 資訊管理學系 學士">NSYSU - B.S. in Information Management</span>**<br>

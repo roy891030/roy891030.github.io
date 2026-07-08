@@ -15,15 +15,15 @@ title:
 
   <div class="hero-stage">
     <div class="hero-copy reveal">
-      <p class="eyebrow" data-en="FinTech Research / Data Systems / Learning Design" data-zh="金融科技研究 / 資料系統 / 學習設計">FinTech Research / Data Systems / Learning Design</p>
-      <h1 data-en="Lo Yi works across finance, data, and learning systems." data-zh="羅頤專注於金融、資料與學習系統。">Lo Yi works across finance, data, and learning systems.</h1>
-      <p class="hero-lede" data-en="Data science graduate student at NYCU, focused on machine learning, financial engineering, teaching tools, and clear technical communication." data-zh="陽明交大資財所資料科學組研究生，關注機器學習、財務工程、教學工具與清楚的技術溝通。">
-        Data science graduate student at NYCU, focused on machine learning,
-        financial engineering, teaching tools, and clear technical communication.
+      <p class="eyebrow" data-en="Data Scientist / Content Creator / Digital Nomad" data-zh="資料科學家 / 內容創作者 / 數位遊牧">Data Scientist / Content Creator / Digital Nomad</p>
+      <h1 data-en="Hi, I am Lo Yi. Welcome to my blog! I hope you enjoy it ( ̀⌄ ́)" data-zh="你好，我是羅頤，歡迎來我的部落格！希望你會喜歡( ̀⌄ ́)">Hi, I am Lo Yi. Welcome to my blog! I hope you enjoy it ( ̀⌄ ́)</h1>
+      <p class="hero-lede" data-en="Data science graduate student at NYCU. I care about machine learning, remote tutoring, content creation, FinTech, and the small details in everyday life that can be understood and improved." data-zh="陽明交大資財所資料科學組研究生。關注機器學習、遠端家教、內容創作與金融科技，也喜歡發現生活裡的細節，拆解後想出更好的方案。">
+        Data science graduate student at NYCU. I care about machine learning,
+        remote tutoring, content creation, FinTech, and the small details in
+        everyday life that can be understood and improved.
       </p>
       <div class="hero-actions">
         <a class="btn hero-btn" href="/projects/" data-en="Explore Work" data-zh="看我的作品">Explore Work</a>
-        <a class="ghost-link" href="/about/" data-en="Read Profile" data-zh="閱讀經歷">Read Profile</a>
       </div>
     </div>
 
@@ -31,9 +31,9 @@ title:
       <div class="orbit-ring orbit-ring-one"></div>
       <div class="orbit-ring orbit-ring-two"></div>
       <img src="/assets/images/低著頭.png" alt="Lo Yi portrait illustration" />
-      <span class="orbit-chip chip-research" data-en="Research" data-zh="研究">Research</span>
-      <span class="orbit-chip chip-education" data-en="Education" data-zh="教育">Education</span>
-      <span class="orbit-chip chip-product" data-en="Systems" data-zh="系統">Systems</span>
+      <span class="orbit-chip chip-research" data-en="Data" data-zh="資料">Data</span>
+      <span class="orbit-chip chip-education" data-en="Video" data-zh="影像">Video</span>
+      <span class="orbit-chip chip-product" data-en="Remote" data-zh="遠端">Remote</span>
     </div>
   </div>
 
@@ -43,12 +43,12 @@ title:
       <span data-en="NYCU Honor Student awards in the 2024 academic year" data-zh="113 學年度兩學期皆獲陽明交大書卷獎">NYCU Honor Student awards in the 2024 academic year</span>
     </div>
     <div>
-      <strong>AFMA</strong>
-      <span data-en="MA Global Outstanding Award in 2026" data-zh="2026 MA 全球傑出獎">MA Global Outstanding Award in 2026</span>
+      <strong>Phi Tau Phi</strong>
+      <span data-en="Honorary member selected from the top 3% of the class" data-zh="斐陶斐榮譽會員，班級前 3% 畢業獲選">Honorary member selected from the top 3% of the class</span>
     </div>
     <div>
-      <strong>Phi Tau Phi</strong>
-      <span data-en="Honorary member selected by NYCU chapter" data-zh="斐陶斐榮譽會員，陽明交大分會推薦">Honorary member selected by NYCU chapter</span>
+      <strong>AFMA</strong>
+      <span data-en="MA Global Outstanding Award in 2026" data-zh="2026 MA 全球傑出獎">MA Global Outstanding Award in 2026</span>
     </div>
     <div>
       <strong>1st / 3rd</strong>
@@ -59,11 +59,12 @@ title:
   <section class="story-grid" aria-label="Current positioning">
     <div class="story-panel reveal">
       <p class="section-kicker" data-en="Current Focus" data-zh="目前方向">Current Focus</p>
-      <h2 data-en="FinTech research, teaching, and tool building in one practice." data-zh="金融科技研究、教學與工具實作形成同一條主線。">FinTech research, teaching, and tool building in one practice.</h2>
-      <p data-en="Focus areas include stock trading signal prediction, applied data science, teaching products, and learning materials. Martial arts training adds discipline, repeatable practice, and resilience to the research workflow." data-zh="目前方向包含台股交易訊號預測、應用資料科學、教學產品與學習材料。國武術訓練帶來紀律、反覆練習與面對研究挫折的穩定度。">
-        Focus areas include stock trading signal prediction, applied data science,
-        teaching products, and learning materials. Martial arts training adds
-        discipline, repeatable practice, and resilience to the research workflow.
+      <h2 data-en="I want the work to show that I take life seriously." data-zh="我希望作品與獎項一起說明：我是很認真在生活的人。">I want the work to show that I take life seriously.</h2>
+      <p data-en="The awards are not only labels for academics or finance. To me, they are records of responsibility: doing the work in every course, staying consistent through training, and learning how to perform under pressure when it matters." data-zh="這些獎項不只是學術或金融的標籤。對我來說，它們比較像是負責任的紀錄：每一堂課都好好完成、訓練時持續刻意練習，並在需要的時候把能力發揮到極致。">
+        The awards are not only labels for academics or finance. To me, they are
+        records of responsibility: doing the work in every course, staying
+        consistent through training, and learning how to perform under pressure
+        when it matters.
       </p>
     </div>
 
@@ -73,16 +74,16 @@ title:
         <b data-en="Honor Student awards, Phi Tau Phi, and foundation scholarship" data-zh="書卷獎、斐陶斐、上海商銀文教基金會獎學金">Honor Student awards, Phi Tau Phi, and foundation scholarship</b>
       </div>
       <div class="signal-row">
-        <span data-en="Financial signal research" data-zh="金融訊號研究">Financial signal research</span>
-        <b data-en="Deep learning + market behavior" data-zh="深度學習與市場行為">Deep learning + market behavior</b>
+        <span data-en="Personal traits" data-zh="個人特質">Personal traits</span>
+        <b data-en="Responsible, observant, and willing to practice deliberately" data-zh="負責任、重視觀察，也願意刻意練習">Responsible, observant, and willing to practice deliberately</b>
       </div>
       <div class="signal-row">
-        <span data-en="Financial certification" data-zh="金融證照與訓練">Financial certification</span>
-        <b data-en="AFMA MA Global Outstanding Award" data-zh="AFMA 高級金融管理師 MA 全球傑出獎">AFMA MA Global Outstanding Award</b>
+        <span data-en="Creation" data-zh="創作">Creation</span>
+        <b data-en="Video editing, filming, and content work" data-zh="剪輯、拍攝與內容創作">Video editing, filming, and content work</b>
       </div>
       <div class="signal-row">
         <span data-en="Martial arts" data-zh="國武術">Martial arts</span>
-        <b data-en="65kg champion and 70kg third-place finisher" data-zh="65kg 第一名與 70kg 第三名">65kg champion and 70kg third-place finisher</b>
+        <b data-en="Facing hard things through discipline and repeatable practice" data-zh="用紀律與反覆練習面對困難">Facing hard things through discipline and repeatable practice</b>
       </div>
     </div>
   </section>
@@ -90,7 +91,7 @@ title:
   <section class="award-section" aria-label="Certificate carousel">
     <div class="section-heading reveal">
       <p class="section-kicker" data-en="Milestones" data-zh="里程碑">Milestones</p>
-      <h2 data-en="Milestones across academics, finance, and martial arts." data-zh="學術、金融與國武術訓練累積出的里程碑。">Milestones across academics, finance, and martial arts.</h2>
+      <h2 data-en="A few records from a period of living seriously." data-zh="一些認真生活留下的紀錄。">A few records from a period of living seriously.</h2>
       <p class="section-note" data-en="Click a certificate or use the arrows to rotate the stack." data-zh="點擊獎狀或使用箭頭，就能切換不同紀錄。">Click a certificate or use the arrows to rotate the stack.</p>
     </div>
 
@@ -142,26 +143,26 @@ title:
   <section class="case-section" aria-label="Featured work">
     <div class="section-heading reveal">
       <p class="section-kicker" data-en="Selected Work" data-zh="代表作品">Selected Work</p>
-      <h2 data-en="Projects built around practical problems and clear outcomes." data-zh="以實際問題與明確成果為核心的專案。">Projects built around practical problems and clear outcomes.</h2>
+      <h2 data-en="Projects that show machine learning, product sense, and graph-based modeling." data-zh="用專案呈現機器學習理解、產品感與圖神經網路建模能力。">Projects that show machine learning, product sense, and graph-based modeling.</h2>
     </div>
 
     <div class="case-grid">
       <a class="case-card reveal" href="https://github.com/roy891030/Forecasting-Consumer-Spending-Amounts-Using-Machine-Learning-and-Time-Series-Analysis">
         <span class="case-type" data-en="Machine Learning" data-zh="機器學習">Machine Learning</span>
-        <h3 data-en="Consumer behavior forecasting" data-zh="消費行為預測">Consumer behavior forecasting</h3>
-        <p data-en="KNN-LSTM time-series modeling for transaction behavior prediction, with improved accuracy over baseline models." data-zh="以 KNN-LSTM 時間序列模型預測交易行為，並提升相較基準模型的準確率。">KNN-LSTM time-series modeling for transaction behavior prediction, with improved accuracy over baseline models.</p>
-      </a>
-
-      <a class="case-card reveal" href="https://github.com/roy891030/grade-system">
-        <span class="case-type" data-en="Education Tool" data-zh="教育工具">Education Tool</span>
-        <h3 data-en="Grade management system" data-zh="成績管理系統">Grade management system</h3>
-        <p data-en="A reporting tool for teachers that turns repetitive grade work into clearer visual feedback." data-zh="為老師設計的成績報告工具，將重複整理工作轉成清楚的視覺化回饋。">A reporting tool for teachers that turns repetitive grade work into clearer visual feedback.</p>
+        <h3 data-en="Consumer behavior forecasting" data-zh="消費者行為預測">Consumer behavior forecasting</h3>
+        <p data-en="A+ FinTech machine learning project using Taiwan open data, feature engineering, regression, KNN, LSTM, and KNN-LSTM experiments to understand consumer spending patterns." data-zh="A+ 金融科技機器學習專案，使用台灣開放資料，透過特徵工程、迴歸、KNN、LSTM 與 KNN-LSTM 實驗理解消費金額變化。">A+ FinTech machine learning project using Taiwan open data, feature engineering, regression, KNN, LSTM, and KNN-LSTM experiments to understand consumer spending patterns.</p>
       </a>
 
       <a class="case-card reveal" href="https://www.youtube.com/watch?v=KlLPIF9VngA">
         <span class="case-type" data-en="Visualization" data-zh="資料視覺化">Visualization</span>
         <h3 data-en="Business location intelligence" data-zh="商業選址視覺化">Business location intelligence</h3>
-        <p data-en="Vue and Google Maps visualization for business location analysis and market observation." data-zh="以 Vue 與 Google Maps 打造商業選址分析與市場觀察視覺化。">Vue and Google Maps visualization for business location analysis and market observation.</p>
+        <p data-en="ICT Innovative Services Awards 2nd-place project. I worked on requirement capture, UI drawing, data transfer, and data cleaning for a Vue and Google Maps based location analysis experience." data-zh="ICT 創新服務競賽第二名作品。我負責需求截取、UI 繪圖、資料傳遞與清理，協助完成 Vue 與 Google Maps 的商業選址分析體驗。">ICT Innovative Services Awards 2nd-place project. I worked on requirement capture, UI drawing, data transfer, and data cleaning for a Vue and Google Maps based location analysis experience.</p>
+      </a>
+
+      <a class="case-card reveal" href="https://github.com/roy891030/shortvideo_mmgcn_poc">
+        <span class="case-type" data-en="Graph Neural Network" data-zh="圖神經網路">Graph Neural Network</span>
+        <h3 data-en="Short-video performance prediction with graph neural networks" data-zh="以圖神經網路預測短影音平台表現">Short-video performance prediction with graph neural networks</h3>
+        <p data-en="A PoC for cold-start short-video performance prediction using HeteroGNN / GraphSAGE on a 54,088-video working set; mean watch time ranking improved from 0.047 to 0.256 Spearman over the LightGBM baseline." data-zh="冷啟動短影音表現預測 PoC，以 54,088 部影片工作集建立 HeteroGNN / GraphSAGE；mean_watch_time 排序 Spearman 從 LightGBM baseline 的 0.047 提升到 0.256。">A PoC for cold-start short-video performance prediction using HeteroGNN / GraphSAGE on a 54,088-video working set; mean watch time ranking improved from 0.047 to 0.256 Spearman over the LightGBM baseline.</p>
       </a>
     </div>
   </section>
@@ -169,29 +170,24 @@ title:
   <section class="timeline-section" aria-label="Portfolio timeline">
     <div class="section-heading reveal">
       <p class="section-kicker" data-en="Path" data-zh="軌跡">Path</p>
-      <h2 data-en="Research, tools, teaching, and training shape the portfolio." data-zh="研究、工具、教學與訓練構成這份履歷。">Research, tools, teaching, and training shape the portfolio.</h2>
+      <h2 data-en="A condensed path through study, projects, awards, and training." data-zh="把學習、專案、獎項與訓練濃縮成一條軌跡。">A condensed path through study, projects, awards, and training.</h2>
     </div>
 
     <div class="timeline">
       <div class="timeline-item reveal">
-        <time>2022</time>
-        <h3 data-en="Built and taught Git learning experiences" data-zh="設計並帶領 Git 入門學習活動">Built and taught Git learning experiences</h3>
-        <p data-en="Designed beginner-friendly version control workshops as a Hahow Campus Ambassador." data-zh="擔任 Hahow 校園大使期間，設計面向初學者的版本控制工作坊。">Designed beginner-friendly version control workshops as a Hahow Campus Ambassador.</p>
-      </div>
-      <div class="timeline-item reveal">
         <time>2022 - 2023</time>
         <h3 data-en="Earned recognition for data visualization" data-zh="以資料視覺化作品獲獎">Earned recognition for data visualization</h3>
-        <p data-en="Placed 2nd at the ICT Innovative Services Awards with a business location visualization system." data-zh="以商業選址視覺化系統獲 ICT 創新服務競賽第二名。">Placed 2nd at the ICT Innovative Services Awards with a business location visualization system.</p>
+        <p data-en="Placed 2nd at the ICT Innovative Services Awards with a business location visualization system, focusing on user needs, UI drawing, and data flow." data-zh="以商業選址視覺化系統獲 ICT 創新服務競賽第二名，主要投入使用者需求、UI 繪圖與資料流程。">Placed 2nd at the ICT Innovative Services Awards with a business location visualization system, focusing on user needs, UI drawing, and data flow.</p>
       </div>
       <div class="timeline-item reveal">
         <time>2024 - Now</time>
         <h3 data-en="Data science graduate study at NYCU" data-zh="陽明交大資財所資料科學研究">Data science graduate study at NYCU</h3>
-        <p data-en="Research focus: machine learning in FinTech, data mining, and stock trading signal prediction." data-zh="研究重心：金融科技機器學習、資料探勘與台股交易訊號預測。">Research focus: machine learning in FinTech, data mining, and stock trading signal prediction.</p>
+        <p data-en="Graduate training in data science. My thesis explores graph neural networks for stock return prediction, while my projects also extend into short-video modeling and content work." data-zh="進入資財所資料科學組，論文研究以圖神經網路預測股價報酬；同時也把專案延伸到短影音表現預測與內容創作。">Graduate training in data science. My thesis explores graph neural networks for stock return prediction, while my projects also extend into short-video modeling and content work.</p>
       </div>
       <div class="timeline-item reveal">
         <time>May 5, 2025</time>
         <h3 data-en="Received the NYCU Honor Student Award" data-zh="獲得陽明交大書卷獎">Received the NYCU Honor Student Award</h3>
-        <p data-en="Awarded for the first semester of the 2024 academic year." data-zh="113 學年度第一學期書卷獎。">Awarded for the first semester of the 2024 academic year.</p>
+        <p data-en="Awarded for the first semester of the 2024 academic year; to me, this represents being responsible for every course." data-zh="113 學年度第一學期書卷獎；對我來說，這代表我有把每一堂課都負責任地完成。">Awarded for the first semester of the 2024 academic year; to me, this represents being responsible for every course.</p>
       </div>
       <div class="timeline-item reveal">
         <time>Nov 8, 2025</time>
@@ -201,7 +197,7 @@ title:
       <div class="timeline-item reveal">
         <time>Nov 24, 2025</time>
         <h3 data-en="Received a second NYCU Honor Student Award" data-zh="再次獲得陽明交大書卷獎">Received a second NYCU Honor Student Award</h3>
-        <p data-en="Awarded again for the second semester of the 2024 academic year." data-zh="113 學年度第二學期再次獲得書卷獎。">Awarded again for the second semester of the 2024 academic year.</p>
+        <p data-en="Awarded again for the second semester of the 2024 academic year." data-zh="113 學年度第二學期再次獲得書卷獎，讓這段研究所初期的努力有了具體紀錄。">Awarded again for the second semester of the 2024 academic year.</p>
       </div>
       <div class="timeline-item reveal">
         <time>Jan 15, 2026</time>
@@ -216,17 +212,12 @@ title:
       <div class="timeline-item reveal">
         <time>Jun 1, 2026</time>
         <h3 data-en="Selected as a Phi Tau Phi honorary member" data-zh="獲選斐陶斐榮譽會員">Selected as a Phi Tau Phi honorary member</h3>
-        <p data-en="Selected by the NYCU chapter for academic excellence." data-zh="因學業表現優異，由陽明交大分會推薦為斐陶斐榮譽會員。">Selected by the NYCU chapter for academic excellence.</p>
+        <p data-en="Selected by the NYCU chapter for academic excellence, an honor reserved for the top 3% of the graduating class." data-zh="因學業表現優異，由陽明交大分會推薦為斐陶斐榮譽會員；這是全班前 3% 畢業才能獲得的榮譽。">Selected by the NYCU chapter for academic excellence, an honor reserved for the top 3% of the graduating class.</p>
       </div>
       <div class="timeline-item reveal">
         <time>Jun 29 - Jul 3, 2026</time>
         <h3 data-en="Earned the AFMA MA Global Outstanding Award" data-zh="獲得 AFMA MA 全球傑出獎">Earned the AFMA MA Global Outstanding Award</h3>
         <p data-en="Completed AFMA senior financial management training and received the MA Global Outstanding Award." data-zh="完成 AFMA 高級金融管理師訓練並獲得 MA 全球傑出獎。">Completed AFMA senior financial management training and received the MA Global Outstanding Award.</p>
-      </div>
-      <div class="timeline-item reveal">
-        <time>Next</time>
-        <h3 data-en="Next: research and product lab" data-zh="下一步：研究與產品實驗室">Next: research and product lab</h3>
-        <p data-en="Future updates can include papers, notebooks, teaching materials, interactive demos, and field notes." data-zh="未來可持續整理論文、notebook、教材、互動 demo 與田野筆記。">Future updates can include papers, notebooks, teaching materials, interactive demos, and field notes.</p>
       </div>
     </div>
   </section>
