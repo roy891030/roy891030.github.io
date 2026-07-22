@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "thank_you"
+title: "碩士論文致謝延伸"
 date: 2026-07-22
-tags: [normal]
+tags: [thanks]
 permalink: /thank_you/
 ---
 
