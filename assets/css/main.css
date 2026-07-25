@@ -1545,7 +1545,7 @@ a.u-email:hover {
   display: grid;
   grid-template-columns: minmax(220px, 0.34fr) minmax(0, 1fr);
   gap: 24px;
-  min-height: 560px;
+  min-height: 610px;
   align-items: center;
   padding: 28px;
   border: 1px solid rgba(90, 96, 73, 0.18);
@@ -1595,7 +1595,7 @@ a.u-email:hover {
 
 .award-wheel {
   position: relative;
-  min-height: 520px;
+  min-height: 590px;
   perspective: 1200px;
 }
 
@@ -1604,18 +1604,19 @@ a.u-email:hover {
   top: 50%;
   left: 50%;
   display: grid;
-  width: min(280px, 38vw);
+  width: min(300px, 38vw);
   min-width: 220px;
-  min-height: 380px;
-  padding: 0;
+  grid-template-rows: 1fr auto;
+  gap: 10px;
+  padding: 12px;
   border: 0;
   border-radius: 8px;
-  background: transparent;
+  background: rgba(255, 255, 255, 0.94);
   color: #5A6049;
   cursor: pointer;
   transform:
     translate(-50%, -50%)
-    translateX(calc(var(--offset) * 112px))
+    translateX(calc(var(--offset) * 140px))
     translateY(calc(var(--distance) * 10px))
     rotateY(calc(var(--offset) * -16deg))
     rotateZ(calc(var(--offset) * 2deg))
@@ -1643,21 +1644,19 @@ a.u-email:hover {
 .award-card img {
   display: block;
   width: 100%;
-  aspect-ratio: 0.72;
+  height: clamp(390px, 42vw, 430px);
   border-radius: 8px;
-  object-fit: cover;
-  object-position: top center;
+  object-fit: contain;
+  object-position: center;
   background: #fff;
   box-shadow: inset 0 0 0 1px rgba(90, 96, 73, 0.12);
 }
 
 .award-card span {
-  position: absolute;
-  right: 14px;
-  bottom: 14px;
   display: inline-flex;
   min-height: 30px;
   align-items: center;
+  justify-self: end;
   padding: 5px 9px;
   border-radius: 8px;
   background: rgba(90, 96, 73, 0.88);
@@ -1676,7 +1675,7 @@ a.u-email:hover {
   outline: none;
   transform:
     translate(-50%, -50%)
-    translateX(calc(var(--offset) * 112px))
+    translateX(calc(var(--offset) * 140px))
     translateY(calc(var(--distance) * 10px - 8px))
     rotateY(calc(var(--offset) * -16deg))
     rotateZ(calc(var(--offset) * 2deg))
@@ -1871,7 +1870,7 @@ a.u-email:hover {
   }
 
   .award-playground {
-    min-height: 770px;
+    min-height: 820px;
   }
 
   .award-copy {
@@ -1879,7 +1878,7 @@ a.u-email:hover {
   }
 
   .award-wheel {
-    min-height: 520px;
+    min-height: 590px;
   }
 }
 
@@ -1931,7 +1930,7 @@ a.u-email:hover {
   }
 
   .award-playground {
-    min-height: 650px;
+    min-height: 690px;
     padding: 18px;
   }
 
@@ -1944,27 +1943,31 @@ a.u-email:hover {
   }
 
   .award-wheel {
-    min-height: 430px;
+    min-height: 500px;
   }
 
   .award-card {
-    width: min(230px, 72vw);
+    width: min(240px, 72vw);
     min-width: 0;
-    min-height: 310px;
+    padding: 10px;
     transform:
       translate(-50%, -50%)
-      translateX(calc(var(--offset) * 42px))
+      translateX(calc(var(--offset) * 54px))
       translateY(calc(var(--distance) * 12px))
       rotateY(calc(var(--offset) * -10deg))
       rotateZ(calc(var(--offset) * 1.5deg))
       scale(calc(1 - (var(--distance) * 0.07)));
   }
 
+  .award-card img {
+    height: clamp(320px, 92vw, 360px);
+  }
+
   .award-card:hover,
   .award-card:focus-visible {
     transform:
       translate(-50%, -50%)
-      translateX(calc(var(--offset) * 42px))
+      translateX(calc(var(--offset) * 54px))
       translateY(calc(var(--distance) * 12px - 6px))
       rotateY(calc(var(--offset) * -10deg))
       rotateZ(calc(var(--offset) * 1.5deg))
