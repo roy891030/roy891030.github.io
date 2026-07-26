@@ -100,6 +100,10 @@ title:
         <span class="award-count" data-award-count>1 / 7</span>
         <h3 data-award-title>Honor Student Award</h3>
         <p data-award-meta>May 5, 2025 - 2024 Academic Year, First Semester</p>
+        <div class="award-controls" aria-label="Certificate controls">
+          <button type="button" class="award-control" data-award-prev aria-label="Previous certificate">‹</button>
+          <button type="button" class="award-control" data-award-next aria-label="Next certificate">›</button>
+        </div>
       </div>
 
       <div class="award-wheel" aria-live="polite">
@@ -133,10 +137,6 @@ title:
         </button>
       </div>
 
-      <div class="award-controls" aria-label="Certificate controls">
-        <button type="button" class="award-control" data-award-prev aria-label="Previous certificate">‹</button>
-        <button type="button" class="award-control" data-award-next aria-label="Next certificate">›</button>
-      </div>
     </div>
   </section>
 

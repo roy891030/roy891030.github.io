@@ -1541,13 +1541,13 @@ a.u-email:hover {
 }
 
 .award-playground {
+  --award-card-width: min(320px, 34vw);
   position: relative;
   display: grid;
-  grid-template-columns: minmax(220px, 0.34fr) minmax(0, 1fr);
-  gap: 24px;
-  min-height: 610px;
+  grid-template-columns: minmax(220px, 0.32fr) minmax(0, 1fr);
+  gap: 18px;
   align-items: center;
-  padding: 28px;
+  padding: 24px 28px;
   border: 1px solid rgba(90, 96, 73, 0.18);
   border-radius: 8px;
   background:
@@ -1561,7 +1561,7 @@ a.u-email:hover {
 .award-copy {
   position: relative;
   z-index: 5;
-  align-self: end;
+  align-self: center;
   padding: 24px;
   border-left: 3px solid #AE9E69;
 }
@@ -1595,7 +1595,8 @@ a.u-email:hover {
 
 .award-wheel {
   position: relative;
-  min-height: 590px;
+  min-height: 0;
+  height: calc((var(--award-card-width) * 297 / 210) + 52px);
   perspective: 1200px;
 }
 
@@ -1603,11 +1604,9 @@ a.u-email:hover {
   position: absolute;
   top: 50%;
   left: 50%;
-  display: grid;
-  width: min(300px, 38vw);
+  display: block;
+  width: var(--award-card-width);
   min-width: 220px;
-  grid-template-rows: 1fr auto;
-  gap: 10px;
   padding: 12px;
   border: 0;
   border-radius: 8px;
@@ -1655,15 +1654,18 @@ a.u-email:hover {
 
 .award-card span {
   display: inline-flex;
+  position: absolute;
+  right: 22px;
+  bottom: 22px;
   min-height: 30px;
   align-items: center;
-  justify-self: end;
   padding: 5px 9px;
   border-radius: 8px;
-  background: rgba(90, 96, 73, 0.88);
+  background: rgba(90, 96, 73, 0.9);
   color: #E1E0C9;
   font-size: 13px;
   font-weight: 700;
+  box-shadow: 0 10px 22px rgba(47, 93, 70, 0.2);
 }
 
 .award-card.is-active {
@@ -1684,11 +1686,8 @@ a.u-email:hover {
 }
 
 .award-controls {
-  position: absolute;
-  right: 28px;
-  bottom: 28px;
-  z-index: 8;
   display: flex;
+  margin-top: 24px;
   gap: 10px;
 }
 
@@ -1871,7 +1870,8 @@ a.u-email:hover {
   }
 
   .award-playground {
-    min-height: 820px;
+    --award-card-width: min(330px, 58vw);
+    gap: 24px;
   }
 
   .award-copy {
@@ -1879,7 +1879,7 @@ a.u-email:hover {
   }
 
   .award-wheel {
-    min-height: 590px;
+    height: calc((var(--award-card-width) * 297 / 210) + 44px);
   }
 }
 
@@ -1931,7 +1931,7 @@ a.u-email:hover {
   }
 
   .award-playground {
-    min-height: 690px;
+    --award-card-width: min(244px, 70vw);
     padding: 18px;
   }
 
@@ -1944,11 +1944,10 @@ a.u-email:hover {
   }
 
   .award-wheel {
-    min-height: 500px;
+    height: calc((var(--award-card-width) * 297 / 210) + 34px);
   }
 
   .award-card {
-    width: min(240px, 72vw);
     min-width: 0;
     padding: 10px;
     transform:
@@ -1964,6 +1963,11 @@ a.u-email:hover {
     height: auto;
   }
 
+  .award-card span {
+    right: 18px;
+    bottom: 18px;
+  }
+
   .award-card:hover,
   .award-card:focus-visible {
     transform:
@@ -1973,11 +1977,6 @@ a.u-email:hover {
       rotateY(calc(var(--offset) * -10deg))
       rotateZ(calc(var(--offset) * 1.5deg))
       scale(calc(1.02 - (var(--distance) * 0.07)));
-  }
-
-  .award-controls {
-    right: 18px;
-    bottom: 18px;
   }
 
   .signal-row {
@@ -3608,5 +3607,94 @@ button.hero-btn {
 
   .portal-section a {
     min-height: 104px;
+  }
+}
+
+/* === Award Carousel Fit Overrides === */
+.award-section {
+  padding-bottom: 44px;
+}
+
+.award-copy {
+  min-width: 0;
+}
+
+.award-copy h3,
+.award-copy p {
+  overflow-wrap: anywhere;
+  word-break: normal;
+}
+
+.award-wheel {
+  display: block;
+  overflow: visible;
+}
+
+.award-card {
+  will-change: transform, opacity;
+}
+
+@media screen and (max-width: 900px) {
+  .award-playground {
+    align-items: start;
+  }
+
+  .award-copy {
+    padding-bottom: 0;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .award-section {
+    padding-bottom: 38px;
+  }
+
+  .award-copy {
+    padding: 12px 0 10px 14px;
+  }
+
+  .award-count {
+    margin-bottom: 14px;
+  }
+
+  .award-copy h3 {
+    max-width: 8.5em;
+    margin-bottom: 10px;
+    font-size: 22px;
+    line-height: 1.24;
+  }
+
+  .award-copy p {
+    font-size: 15px;
+    line-height: 1.55;
+  }
+
+  .award-controls {
+    margin-top: 18px;
+  }
+
+  .award-wheel {
+    height: calc((var(--award-card-width) * 297 / 210) + 26px);
+  }
+
+  .award-card {
+    transform:
+      translate(-50%, -50%)
+      translateX(calc(var(--offset) * 38px))
+      translateY(calc(var(--distance) * 9px))
+      rotateY(calc(var(--offset) * -8deg))
+      rotateZ(calc(var(--offset) * 1.2deg))
+      scale(calc(1 - (var(--distance) * 0.065)));
+  }
+
+  .award-card:hover,
+  .award-card:focus-visible {
+    transform:
+      translate(-50%, -50%)
+      translateX(calc(var(--offset) * 38px))
+      translateY(calc(var(--distance) * 9px - 5px))
+      rotateY(calc(var(--offset) * -8deg))
+      rotateZ(calc(var(--offset) * 1.2deg))
+      scale(calc(1.02 - (var(--distance) * 0.065)));
   }
 }
