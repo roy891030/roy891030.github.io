@@ -3649,32 +3649,61 @@ button.hero-btn {
     padding-bottom: 38px;
   }
 
+  .award-playground {
+    --award-card-width: min(232px, 66vw);
+    gap: 12px;
+    padding: 14px;
+  }
+
   .award-copy {
-    padding: 12px 0 10px 14px;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas:
+      "count"
+      "title"
+      "meta"
+      "controls";
+    align-items: start;
+    padding: 10px 0 10px 12px;
   }
 
   .award-count {
-    margin-bottom: 14px;
+    grid-area: count;
+    width: fit-content;
+    min-height: 30px;
+    margin-bottom: 8px;
+    padding: 3px 9px;
   }
 
   .award-copy h3 {
-    max-width: 8.5em;
-    margin-bottom: 10px;
-    font-size: 22px;
-    line-height: 1.24;
+    grid-area: title;
+    max-width: 9em;
+    margin-bottom: 6px;
+    font-size: 21px;
+    line-height: 1.22;
   }
 
   .award-copy p {
-    font-size: 15px;
-    line-height: 1.55;
+    grid-area: meta;
+    font-size: 14px;
+    line-height: 1.45;
   }
 
   .award-controls {
-    margin-top: 18px;
+    grid-area: controls;
+    margin-top: 10px;
+    flex-direction: row;
+    gap: 8px;
   }
 
   .award-wheel {
-    height: calc((var(--award-card-width) * 297 / 210) + 26px);
+    height: calc((var(--award-card-width) * 297 / 210) + 22px);
+  }
+
+  .award-control {
+    width: 42px;
+    height: 42px;
+    font-size: 28px;
   }
 
   .award-card {
