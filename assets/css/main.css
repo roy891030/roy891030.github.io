@@ -1644,7 +1644,8 @@ a.u-email:hover {
 .award-card img {
   display: block;
   width: 100%;
-  height: clamp(390px, 42vw, 430px);
+  height: auto;
+  aspect-ratio: 210 / 297;
   border-radius: 8px;
   object-fit: contain;
   object-position: center;
@@ -1960,7 +1961,7 @@ a.u-email:hover {
   }
 
   .award-card img {
-    height: clamp(320px, 92vw, 360px);
+    height: auto;
   }
 
   .award-card:hover,
