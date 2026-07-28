@@ -3732,10 +3732,12 @@ button.hero-btn {
 .video-portfolio {
   display: grid;
   gap: 38px;
+  min-width: 0;
 }
 
 .video-intro {
   max-width: 760px;
+  min-width: 0;
 }
 
 .video-advantage {
@@ -3761,6 +3763,7 @@ button.hero-btn {
 .video-list {
   display: grid;
   gap: 28px;
+  min-width: 0;
 }
 
 .post-content .video-kicker,
@@ -3783,7 +3786,10 @@ button.hero-btn {
 
 .video-feature {
   display: grid;
-  grid-template-columns: minmax(0, 1.35fr) minmax(260px, 0.65fr);
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  grid-template-columns: minmax(0, 1.35fr) minmax(240px, 0.65fr);
   gap: 24px;
   align-items: stretch;
   padding: 22px;
@@ -3797,6 +3803,10 @@ button.hero-btn {
 
 .video-embed {
   position: relative;
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
   overflow: hidden;
   aspect-ratio: 16 / 9;
   border: 2px solid var(--forest-ink);
@@ -3807,13 +3817,16 @@ button.hero-btn {
 .video-embed iframe {
   position: absolute;
   inset: 0;
+  display: block;
   width: 100%;
+  max-width: 100%;
   height: 100%;
   border: 0;
 }
 
 .video-copy {
   display: grid;
+  min-width: 0;
   align-content: center;
 }
 
@@ -3847,6 +3860,7 @@ button.hero-btn {
 
 .video-metrics span {
   display: block;
+  min-width: 0;
   padding: 9px 11px;
   border-left: 4px solid var(--forest-ink);
   border-radius: 6px;
@@ -3854,6 +3868,7 @@ button.hero-btn {
   color: #244235;
   font-weight: 900;
   line-height: 1.35;
+  overflow-wrap: anywhere;
 }
 
 .post-content .video-action {
@@ -3940,10 +3955,34 @@ button.hero-btn {
   margin: 0;
 }
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 980px) {
   .video-feature {
     grid-template-columns: minmax(0, 1fr);
     padding: 14px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .video-portfolio {
+    gap: 26px;
+  }
+
+  .video-advantage {
+    padding: 18px;
+  }
+
+  .video-list {
+    gap: 22px;
+  }
+
+  .video-feature {
+    gap: 16px;
+  }
+
+  .post-content .video-copy h2,
+  .post-content .video-section-heading h2 {
+    font-size: clamp(22px, 8vw, 30px);
+    line-height: 1.18;
   }
 
   .local-video-card {
