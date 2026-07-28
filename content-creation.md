@@ -16,8 +16,12 @@ permalink: /content-creation/
 
   <div class="video-list">
     <article class="video-feature">
-      <div class="video-embed drive-embed">
-        <iframe src="https://drive.google.com/file/d/1oyY53s9YkY6juGQSuHNdNWmZo90ABBpV/preview" title="HAHOW campus ambassador self introduction video" allow="autoplay; fullscreen" allowfullscreen></iframe>
+      <div class="video-embed drive-embed" data-drive-src="https://drive.google.com/file/d/1oyY53s9YkY6juGQSuHNdNWmZo90ABBpV/preview" data-drive-title="HAHOW campus ambassador self introduction video">
+        <img class="drive-video-poster" src="https://drive.google.com/thumbnail?id=1oyY53s9YkY6juGQSuHNdNWmZo90ABBpV&amp;sz=w1200" alt="">
+        <button class="drive-video-trigger" type="button" aria-label="Play Self Introduction">
+          <span class="drive-play-icon" aria-hidden="true"></span>
+          <span class="drive-play-copy" data-en="Play video" data-zh="播放影片">Play video</span>
+        </button>
       </div>
       <div class="video-copy">
         <span class="video-label" data-en="Personal Branding" data-zh="個人品牌">Personal Branding</span>
@@ -49,8 +53,12 @@ permalink: /content-creation/
     </article>
 
     <article class="video-feature">
-      <div class="video-embed drive-embed">
-        <iframe src="https://drive.google.com/file/d/1MxDbtQffIFtUHh8OuMfjpEIYXRMeoGMO/preview" title="Cooking and science final report video" allow="autoplay; fullscreen" allowfullscreen></iframe>
+      <div class="video-embed drive-embed" data-drive-src="https://drive.google.com/file/d/1MxDbtQffIFtUHh8OuMfjpEIYXRMeoGMO/preview" data-drive-title="Cooking and science final report video">
+        <img class="drive-video-poster" src="https://drive.google.com/thumbnail?id=1MxDbtQffIFtUHh8OuMfjpEIYXRMeoGMO&amp;sz=w1200" alt="">
+        <button class="drive-video-trigger" type="button" aria-label="Play Cooking and Science">
+          <span class="drive-play-icon" aria-hidden="true"></span>
+          <span class="drive-play-copy" data-en="Play video" data-zh="播放影片">Play video</span>
+        </button>
       </div>
       <div class="video-copy">
         <span class="video-label" data-en="Educational Storytelling" data-zh="教育敘事">Educational Storytelling</span>
@@ -65,8 +73,12 @@ permalink: /content-creation/
     </article>
 
     <article class="video-feature">
-      <div class="video-embed drive-embed">
-        <iframe src="https://drive.google.com/file/d/1wbA4BjK9ho64tTBBumd1oJnTT-bmkFEQ/preview" title="Graduation project demo video" allow="autoplay; fullscreen" allowfullscreen></iframe>
+      <div class="video-embed drive-embed" data-drive-src="https://drive.google.com/file/d/1wbA4BjK9ho64tTBBumd1oJnTT-bmkFEQ/preview" data-drive-title="Graduation project demo video">
+        <img class="drive-video-poster" src="https://drive.google.com/thumbnail?id=1wbA4BjK9ho64tTBBumd1oJnTT-bmkFEQ&amp;sz=w1200" alt="">
+        <button class="drive-video-trigger" type="button" aria-label="Play Graduation Project Demo">
+          <span class="drive-play-icon" aria-hidden="true"></span>
+          <span class="drive-play-copy" data-en="Play video" data-zh="播放影片">Play video</span>
+        </button>
       </div>
       <div class="video-copy">
         <span class="video-label" data-en="Product Demo" data-zh="產品 Demo">Product Demo</span>
@@ -81,8 +93,12 @@ permalink: /content-creation/
     </article>
 
     <article class="video-feature">
-      <div class="video-embed drive-embed">
-        <iframe src="https://drive.google.com/file/d/1INqvaRjt-vKNb6EW6sqjJUlLjKgSG0r4/preview" title="Kang Hsuan Educational Publishing junior high civics sample video" allow="autoplay; fullscreen" allowfullscreen></iframe>
+      <div class="video-embed drive-embed" data-drive-src="https://drive.google.com/file/d/1INqvaRjt-vKNb6EW6sqjJUlLjKgSG0r4/preview" data-drive-title="Kang Hsuan Educational Publishing junior high civics sample video">
+        <img class="drive-video-poster" src="https://drive.google.com/thumbnail?id=1INqvaRjt-vKNb6EW6sqjJUlLjKgSG0r4&amp;sz=w1200" alt="">
+        <button class="drive-video-trigger" type="button" aria-label="Play Kang Hsuan Educational Publishing sample video">
+          <span class="drive-play-icon" aria-hidden="true"></span>
+          <span class="drive-play-copy" data-en="Play video" data-zh="播放影片">Play video</span>
+        </button>
       </div>
       <div class="video-copy">
         <span class="video-label" data-en="Outsourced Education Video" data-zh="外包教育影片">Outsourced Education Video</span>
