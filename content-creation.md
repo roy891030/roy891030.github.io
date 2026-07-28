@@ -16,7 +16,7 @@ permalink: /content-creation/
 
   <div class="video-list">
     <article class="video-feature">
-      <div class="video-embed">
+      <div class="video-embed drive-embed">
         <iframe src="https://drive.google.com/file/d/1oyY53s9YkY6juGQSuHNdNWmZo90ABBpV/preview" title="HAHOW campus ambassador self introduction video" allow="autoplay; fullscreen" allowfullscreen></iframe>
       </div>
       <div class="video-copy">
@@ -49,7 +49,7 @@ permalink: /content-creation/
     </article>
 
     <article class="video-feature">
-      <div class="video-embed">
+      <div class="video-embed drive-embed">
         <iframe src="https://drive.google.com/file/d/1MxDbtQffIFtUHh8OuMfjpEIYXRMeoGMO/preview" title="Cooking and science final report video" allow="autoplay; fullscreen" allowfullscreen></iframe>
       </div>
       <div class="video-copy">
@@ -65,7 +65,7 @@ permalink: /content-creation/
     </article>
 
     <article class="video-feature">
-      <div class="video-embed">
+      <div class="video-embed drive-embed">
         <iframe src="https://drive.google.com/file/d/1wbA4BjK9ho64tTBBumd1oJnTT-bmkFEQ/preview" title="Graduation project demo video" allow="autoplay; fullscreen" allowfullscreen></iframe>
       </div>
       <div class="video-copy">
@@ -81,7 +81,7 @@ permalink: /content-creation/
     </article>
 
     <article class="video-feature">
-      <div class="video-embed">
+      <div class="video-embed drive-embed">
         <iframe src="https://drive.google.com/file/d/1INqvaRjt-vKNb6EW6sqjJUlLjKgSG0r4/preview" title="Kang Hsuan outsourced opportunity cost video" allow="autoplay; fullscreen" allowfullscreen></iframe>
       </div>
       <div class="video-copy">

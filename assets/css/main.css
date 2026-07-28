@@ -3736,11 +3736,15 @@ button.hero-btn {
 }
 
 .video-intro {
-  max-width: 760px;
+  width: 100%;
+  max-width: 100%;
   min-width: 0;
+  box-sizing: border-box;
 }
 
 .video-advantage {
+  width: 100%;
+  box-sizing: border-box;
   padding: 24px;
   border: 2px solid var(--forest-ink);
   border-radius: 8px;
@@ -3812,6 +3816,10 @@ button.hero-btn {
   border: 2px solid var(--forest-ink);
   border-radius: 8px;
   background: #11231C;
+}
+
+.video-embed.drive-embed {
+  container-type: inline-size;
 }
 
 .video-embed iframe {
@@ -3977,6 +3985,17 @@ button.hero-btn {
 
   .video-feature {
     gap: 16px;
+  }
+
+  .video-embed.drive-embed iframe {
+    top: 50%;
+    left: 50%;
+    width: 640px;
+    max-width: none;
+    height: 360px;
+    transform: translate(-50%, -50%) scale(0.46);
+    transform: translate(-50%, -50%) scale(calc(100cqw / 640px));
+    transform-origin: center;
   }
 
   .post-content .video-copy h2,
