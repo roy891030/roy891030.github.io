@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Courses
-title_en: Courses
-title_zh: 課程
+title: Teaching Services
+title_en: Teaching Services
+title_zh: 教學服務
 permalink: /courses/
 ---
 

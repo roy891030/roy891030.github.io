@@ -225,19 +225,19 @@ title:
   <section class="portal-section reveal" aria-label="Navigation portals">
     <a href="/courses/">
       <span data-en="Teach" data-zh="教學">Teach</span>
-      <strong data-en="Courses" data-zh="課程">Courses</strong>
+      <strong data-en="Teaching Services" data-zh="教學服務">Teaching Services</strong>
     </a>
     <a href="/projects/">
       <span data-en="Build" data-zh="實作">Build</span>
-      <strong data-en="Projects" data-zh="專案">Projects</strong>
+      <strong data-en="Software Projects" data-zh="軟體專案">Software Projects</strong>
     </a>
     <a href="/blog/">
       <span data-en="Think" data-zh="思考">Think</span>
-      <strong data-en="Writing" data-zh="文章">Writing</strong>
+      <strong data-en="Blog" data-zh="部落格">Blog</strong>
     </a>
     <a href="/about/">
       <span data-en="Meet" data-zh="認識">Meet</span>
-      <strong data-en="About" data-zh="關於">About</strong>
+      <strong data-en="About Me" data-zh="關於我">About Me</strong>
     </a>
   </section>
 </section>

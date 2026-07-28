@@ -1,8 +1,8 @@
 ---
 layout: page
-title: My Projects
-title_en: My Projects
-title_zh: 專案
+title: Software Projects
+title_en: Software Projects
+title_zh: 軟體專案
 permalink: /projects/
 ---
 

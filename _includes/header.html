@@ -20,12 +20,7 @@
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
-            {%- assign zh_title = my_page.title -%}
-            {%- if my_page.url == '/courses/' -%}{%- assign zh_title = '課程' -%}{%- endif -%}
-            {%- if my_page.url == '/projects/' -%}{%- assign zh_title = '專案' -%}{%- endif -%}
-            {%- if my_page.url == '/content-creation/' -%}{%- assign zh_title = '內容創作' -%}{%- endif -%}
-            {%- if my_page.url == '/blog/' -%}{%- assign zh_title = '文章' -%}{%- endif -%}
-            {%- if my_page.url == '/about/' -%}{%- assign zh_title = '關於' -%}{%- endif -%}
+            {%- assign zh_title = my_page.title_zh | default: my_page.title -%}
             <a class="page-link" href="{{ my_page.url | relative_url }}" data-en="{{ my_page.title | escape }}" data-zh="{{ zh_title | escape }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}

@@ -82,15 +82,15 @@ permalink: /content-creation/
 
     <article class="video-feature">
       <div class="video-embed drive-embed">
-        <iframe src="https://drive.google.com/file/d/1INqvaRjt-vKNb6EW6sqjJUlLjKgSG0r4/preview" title="Kang Hsuan outsourced opportunity cost video" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        <iframe src="https://drive.google.com/file/d/1INqvaRjt-vKNb6EW6sqjJUlLjKgSG0r4/preview" title="Kang Hsuan Educational Publishing junior high civics sample video" allow="autoplay; fullscreen" allowfullscreen></iframe>
       </div>
       <div class="video-copy">
         <span class="video-label" data-en="Outsourced Education Video" data-zh="外包教育影片">Outsourced Education Video</span>
         <p class="video-date" data-en="July 25, 2026" data-zh="2026 年 7 月 25 日">July 25, 2026</p>
-        <h2 data-en="Kang Hsuan Outsourcing: Opportunity Cost" data-zh="康軒外包：機會成本">Kang Hsuan Outsourcing: Opportunity Cost</h2>
+        <h2 data-en="Kang Hsuan Educational Publishing Outsourcing: Junior High Civics Sample Video" data-zh="康軒文教外包案：國中公民樣片">Kang Hsuan Educational Publishing Outsourcing: Junior High Civics Sample Video</h2>
         <p data-en="A recent outsourced education video. The work focuses on script planning, copy ideation, PPT structure, visual elements, and turning economics domain knowledge into a simple explanation that general viewers can absorb quickly." data-zh="近期完成的外包教育影片。重點在於腳本規劃、文案發想、PPT 架構、視覺元素，以及把經濟學 domain knowledge 轉譯成一般觀眾能快速吸收的說明。">A recent outsourced education video. The work focuses on script planning, copy ideation, PPT structure, visual elements, and turning economics domain knowledge into a simple explanation that general viewers can absorb quickly.</p>
         <div class="video-metrics">
-          <span data-en="Strength: fast client alignment, feedback integration, and revision control" data-zh="強項：快速對齊甲方需求、整合回饋並掌握修稿節奏">Strength: fast client alignment, feedback integration, and revision control</span>
+          <span data-en="Strength: quickly understanding client needs, integrating feedback, and controlling the revision rhythm" data-zh="強項：快速了解客戶需求、整合回饋並掌握修稿節奏">Strength: quickly understanding client needs, integrating feedback, and controlling the revision rhythm</span>
           <span data-en="Strength: content writing, PPT production, and precise simplification" data-zh="強項：內容撰寫、PPT 製作、精準扁平化說明">Strength: content writing, PPT production, and precise simplification</span>
         </div>
       </div>
