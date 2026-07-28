@@ -59,31 +59,40 @@ title:
   <section class="story-grid" aria-label="Current positioning">
     <div class="story-panel reveal">
       <p class="section-kicker" data-en="Current Focus" data-zh="目前方向">Current Focus</p>
-      <h2 data-en="I want the work to show that I take life seriously." data-zh="我希望作品與獎項一起說明：我是很認真在生活的人。">I want the work to show that I take life seriously.</h2>
-      <p data-en="The awards are not only labels for academics or finance. To me, they are records of responsibility: doing the work in every course, staying consistent through training, and learning how to perform under pressure when it matters." data-zh="這些獎項不只是學術或金融的標籤。對我來說，它們比較像是負責任的紀錄：每一堂課都好好完成、訓練時持續刻意練習，並在需要的時候把能力發揮到極致。">
-        The awards are not only labels for academics or finance. To me, they are
-        records of responsibility: doing the work in every course, staying
-        consistent through training, and learning how to perform under pressure
-        when it matters.
+      <h2 data-en="I hope to change the world through my work and care." data-zh="我希望透過我的作品與用心，改變世界。">I hope to change the world through my work and care.</h2>
+      <p data-en="From age 23 to 25, the people I met and the things I experienced could fill endless stories. Recently, while organizing the certificates from these two years - sanda competition champion, support from the Shanghai Commercial Bank foundation, Honor Student awards, Phi Tau Phi, and more - I realized these certificates are not mine alone. They were possible because on every night I doubted myself, my roommates, friends, and former partner kept giving me confidence and accepting all my flaws. Without you, I am nothing. Especially during the poorest period of my first graduate year, the friends who supported me with food made me more certain that I had to finish my studies well. That also pushed me to think more deeply about class, poverty, and what they mean to me, eventually leading to my solo journey to the slums of Manila. Even now, I still naively believe that I must change this world." data-zh="從23到25歲，遇到的人、經歷有趣地講也講不完，最近在整理這兩年的獎狀，有散打比賽冠軍、上海商銀的經濟支援、書卷獎、斐陶斐等，這些獎狀都不是我的，而是在每個懷疑自己能力的夜晚，室友們、朋友們、前女友不斷不斷地給我信心以及包容我所有缺點，才有可能得到的認可，「沒有你們，我什麼都不是」。特別是在碩一最窮困時那些給我食物支援的朋友們，是你們的食物才讓我更確信一定要好好把書讀完，且更讓我反思階級、貧困對我的意義，也才有我獨自一人去往馬尼拉貧民窟的旅程。至今我仍然天真地相信我一定要改變這世界。">
+        From age 23 to 25, the people I met and the things I experienced could
+        fill endless stories. Recently, while organizing the certificates from
+        these two years - sanda competition champion, support from the Shanghai
+        Commercial Bank foundation, Honor Student awards, Phi Tau Phi, and more
+        - I realized these certificates are not mine alone. They were possible
+        because on every night I doubted myself, my roommates, friends, and
+        former partner kept giving me confidence and accepting all my flaws.
+        Without you, I am nothing. Especially during the poorest period of my
+        first graduate year, the friends who supported me with food made me more
+        certain that I had to finish my studies well. That also pushed me to
+        think more deeply about class, poverty, and what they mean to me,
+        eventually leading to my solo journey to the slums of Manila. Even now,
+        I still naively believe that I must change this world.
       </p>
     </div>
 
     <div class="signal-panel reveal">
       <div class="signal-row">
         <span data-en="Academic honors" data-zh="學術榮譽">Academic honors</span>
-        <b data-en="Honor Student awards, Phi Tau Phi, and foundation scholarship" data-zh="書卷獎、斐陶斐、上海商銀文教基金會獎學金">Honor Student awards, Phi Tau Phi, and foundation scholarship</b>
+        <b data-en="Honor Student awards, Phi Tau Phi honorary member, and Shanghai Commercial Bank foundation scholarship" data-zh="書卷獎、斐陶斐榮譽會員、上海商銀文教基金會獎學金">Honor Student awards, Phi Tau Phi honorary member, and Shanghai Commercial Bank foundation scholarship</b>
       </div>
       <div class="signal-row">
         <span data-en="Personal traits" data-zh="個人特質">Personal traits</span>
-        <b data-en="Responsible, observant, and willing to practice deliberately" data-zh="負責任、重視觀察，也願意刻意練習">Responsible, observant, and willing to practice deliberately</b>
+        <b data-en="Proactive, deliberate in practice, and passionate about thinking and creation" data-zh="主動積極、刻意練習，熱愛思考與創作">Proactive, deliberate in practice, and passionate about thinking and creation</b>
       </div>
       <div class="signal-row">
         <span data-en="Creation" data-zh="創作">Creation</span>
-        <b data-en="Video editing, filming, and content work" data-zh="剪輯、拍攝與內容創作">Video editing, filming, and content work</b>
+        <b data-en="Editing, filming, rap, and content creation" data-zh="剪輯、拍攝、饒舌與內容創作">Editing, filming, rap, and content creation</b>
       </div>
       <div class="signal-row">
-        <span data-en="Martial arts" data-zh="國武術">Martial arts</span>
-        <b data-en="Facing hard things through discipline and repeatable practice" data-zh="用紀律與反覆練習面對困難">Facing hard things through discipline and repeatable practice</b>
+        <span data-en="Martial arts sanda" data-zh="武術散打">Martial arts sanda</span>
+        <b data-en="Facing difficulty directly through discipline and repeated practice" data-zh="用紀律與反覆練習直面困難">Facing difficulty directly through discipline and repeated practice</b>
       </div>
     </div>
   </section>
