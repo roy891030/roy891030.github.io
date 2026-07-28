@@ -60,7 +60,7 @@ title:
     <div class="story-panel reveal">
       <p class="section-kicker" data-en="Current Focus" data-zh="目前方向">Current Focus</p>
       <h2 data-en="I hope to change the world through my work and care." data-zh="我希望透過我的作品與用心，改變世界。">I hope to change the world through my work and care.</h2>
-      <p data-en="From age 23 to 25, the people I met and the things I experienced could fill endless stories. Recently, while organizing the certificates from these two years - sanda competition champion, support from the Shanghai Commercial Bank foundation, Honor Student awards, Phi Tau Phi, and more - I realized these certificates are not mine alone. They were possible because on every night I doubted myself, my roommates, friends, and former partner kept giving me confidence and accepting all my flaws. Without you, I am nothing. Especially during the poorest period of my first graduate year, the friends who supported me with food made me more certain that I had to finish my studies well. That also pushed me to think more deeply about class, poverty, and what they mean to me, eventually leading to my solo journey to the slums of Manila. Even now, I still naively believe that I must change this world." data-zh="從23到25歲，遇到的人、經歷有趣地講也講不完，最近在整理這兩年的獎狀，有散打比賽冠軍、上海商銀的經濟支援、書卷獎、斐陶斐等，這些獎狀都不是我的，而是在每個懷疑自己能力的夜晚，室友們、朋友們、前女友不斷不斷地給我信心以及包容我所有缺點，才有可能得到的認可，「沒有你們，我什麼都不是」。特別是在碩一最窮困時那些給我食物支援的朋友們，是你們的食物才讓我更確信一定要好好把書讀完，且更讓我反思階級、貧困對我的意義，也才有我獨自一人去往馬尼拉貧民窟的旅程。至今我仍然天真地相信我一定要改變這世界。">
+      <p data-en="From age 23 to 25, the people I met and the things I experienced could fill endless stories. Recently, while organizing the certificates from these two years - sanda competition champion, support from the Shanghai Commercial Bank foundation, Honor Student awards, Phi Tau Phi, and more - I realized these certificates are not mine alone. They were possible because on every night I doubted myself, my roommates, friends, and former partner kept giving me confidence and accepting all my flaws. Without you, I am nothing." data-zh="從23到25歲，遇到的人、經歷有趣地講也講不完，最近在整理這兩年的獎狀，有散打比賽冠軍、上海商銀的經濟支援、書卷獎、斐陶斐等，這些獎狀都不是我的，而是在每個懷疑自己能力的夜晚，室友們、朋友們、前女友不斷不斷地給我信心以及包容我所有缺點，才有可能得到的認可，「沒有你們，我什麼都不是」。">
         From age 23 to 25, the people I met and the things I experienced could
         fill endless stories. Recently, while organizing the certificates from
         these two years - sanda competition champion, support from the Shanghai
@@ -68,12 +68,18 @@ title:
         - I realized these certificates are not mine alone. They were possible
         because on every night I doubted myself, my roommates, friends, and
         former partner kept giving me confidence and accepting all my flaws.
-        Without you, I am nothing. Especially during the poorest period of my
-        first graduate year, the friends who supported me with food made me more
-        certain that I had to finish my studies well. That also pushed me to
-        think more deeply about class, poverty, and what they mean to me,
-        eventually leading to my solo journey to the slums of Manila. Even now,
-        I still naively believe that I must change this world.
+        Without you, I am nothing.
+      </p>
+      <p data-en="Especially during the poorest period of my first graduate year, the friends who supported me with food made me more certain that I had to finish my studies well. That also pushed me to think more deeply about class, poverty, and what they mean to me, eventually leading to my solo journey to the slums of Manila." data-zh="特別是在碩一最窮困時那些給我食物支援的朋友們，是你們的食物才讓我更確信一定要好好把書讀完，且更讓我反思階級、貧困對我的意義，也才有我獨自一人去往馬尼拉貧民窟的旅程。">
+        Especially during the poorest period of my first graduate year, the
+        friends who supported me with food made me more certain that I had to
+        finish my studies well. That also pushed me to think more deeply about
+        class, poverty, and what they mean to me, eventually leading to my solo
+        journey to the slums of Manila.
+      </p>
+      <p data-en="Even now, I still naively believe that I must use my talents to change this world." data-zh="至今我仍然天真地相信我一定要用我的才能改變這世界。">
+        Even now, I still naively believe that I must use my talents to change
+        this world.
       </p>
     </div>
 
