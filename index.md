@@ -97,7 +97,7 @@ title:
 
     <div class="award-playground reveal" data-award-carousel>
       <div class="award-copy">
-        <span class="award-count" data-award-count>1 / 7</span>
+        <span class="award-count" data-award-count>1 / 11</span>
         <h3 data-award-title>Honor Student Award</h3>
         <p data-award-meta>May 5, 2025 - 2024 Academic Year, First Semester</p>
         <div class="award-controls" aria-label="Certificate controls">
@@ -134,6 +134,22 @@ title:
         <button class="award-card" type="button" data-index="6" aria-label="Show 70kg martial arts third place certificate">
           <img src="/assets/images/awards/martial-arts-2026-third-place-70kg.webp" alt="2026 Hsinchu Mayor Cup national martial arts 70kg third place certificate" />
           <span>Apr 25, 2026</span>
+        </button>
+        <button class="award-card" type="button" data-index="7" aria-label="Show English writing competition third place certificate">
+          <img src="/assets/images/awards/english-writing-competition-2020-third-place.webp" alt="NSYSU English writing competition third place certificate" />
+          <span>Jun 17, 2020</span>
+        </button>
+        <button class="award-card is-landscape" type="button" data-index="8" aria-label="Show NSYSU Excellent Student Award certificate">
+          <img src="/assets/images/awards/nsysu-excellent-student-award-2020.webp" alt="NSYSU Excellent Student Award certificate" />
+          <span>Dec 20, 2020</span>
+        </button>
+        <button class="award-card is-landscape" type="button" data-index="9" aria-label="Show Hahow campus ambassador completion certificate">
+          <img src="/assets/images/awards/hahow-campus-ambassador-2022.webp" alt="Hahow campus ambassador completion certificate" />
+          <span>Jul 2022</span>
+        </button>
+        <button class="award-card" type="button" data-index="10" aria-label="Show 2022 ICT Innovative Services Award certificate">
+          <img src="/assets/images/awards/ict-innovative-services-award-2022.webp" alt="2022 ICT Innovative Services Awards second place certificate" />
+          <span>Nov 5, 2022</span>
         </button>
       </div>
 
@@ -393,6 +409,46 @@ title:
           en: 'April 25, 2026 - Mayor Cup, 70kg division, third place',
           zh: '2026 年 4 月 25 日 - 市長盃國武術錦標賽'
         }
+      },
+      {
+        title: {
+          en: 'English Writing Competition',
+          zh: '全校英文寫作競賽第三名'
+        },
+        meta: {
+          en: 'June 17, 2020 - NSYSU Department of Foreign Languages and Literature',
+          zh: '2020 年 6 月 17 日 - 國立中山大學全校英文寫作競賽'
+        }
+      },
+      {
+        title: {
+          en: 'Excellent Student Award',
+          zh: '國立中山大學書香獎'
+        },
+        meta: {
+          en: 'December 20, 2020 - Spring Semester 2020 academic performance award',
+          zh: '2020 年 12 月 20 日 - 108 學年度第 2 學期品學兼優'
+        }
+      },
+      {
+        title: {
+          en: 'Hahow Campus Ambassador',
+          zh: 'Hahow 品牌校園大使結業證書'
+        },
+        meta: {
+          en: 'March - July 2022 - Hahow campus ambassador program',
+          zh: '2022 年 3 月至 7 月 - Hahow 好學校品牌校園大使'
+        }
+      },
+      {
+        title: {
+          en: 'ICT Innovative Services Award',
+          zh: '資訊應用服務創新競賽第二名'
+        },
+        meta: {
+          en: 'November 5, 2022 - Visilect business site selection visualization system',
+          zh: '2022 年 11 月 5 日 - Visilect 企業視覺化選址系統'
+        }
       }
     ];
 
@@ -411,7 +467,9 @@ title:
         card.style.setProperty('--offset', offset);
         card.style.setProperty('--distance', distance);
         card.classList.toggle('is-active', index === active);
+        card.classList.toggle('is-hidden', distance > 3);
         card.setAttribute('aria-pressed', index === active ? 'true' : 'false');
+        card.setAttribute('aria-hidden', distance > 3 ? 'true' : 'false');
         card.tabIndex = distance > 3 ? -1 : 0;
       });
       var language = window.portfolioLanguage === 'zh' ? 'zh' : 'en';
