@@ -70,6 +70,7 @@ plugins:
 header_pages:
   - courses.md
   - projects.md
+  - content-creation.md
   - blog.md
   - about.md
 
