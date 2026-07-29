@@ -11,7 +11,11 @@ permalink: /about/
 ## <span data-en="Self-Introduction" data-zh="自我介紹">Self-Introduction</span>
 
 <p>
-  <span data-en="Lo Yi is a data science graduate student, content creator, and remote-work-oriented learner who likes to observe details in everyday life and turn them into clearer systems or better decisions." data-zh="羅頤是資料科學研究生、內容創作者，也喜歡遠端工作的生活方式。我喜歡觀察生活中的細節，並把它們拆解成更清楚的系統或更好的決策。">Lo Yi is a data science graduate student, content creator, and remote-work-oriented learner who likes to observe details in everyday life and turn them into clearer systems or better decisions.</span>
+  <span data-en="Hi! I am Lo Yi, a newly graduated freelance creator. I love travel, photography, and creation. I started university as a chemistry student, later transferred to Information Management, and studied Finance in graduate school." data-zh="嗨！你好～ 我是羅頤，一名剛畢業的自由創作者，我喜歡旅行、攝影以及創作，大學曾是化學系的學生，後來轉到資訊管理學系，畢業後研究所唸的是財務金融。">Hi! I am Lo Yi, a newly graduated freelance creator. I love travel, photography, and creation. I started university as a chemistry student, later transferred to Information Management, and studied Finance in graduate school.</span>
+</p>
+
+<p>
+  <span data-en="Yes, I love exploring new things and putting emotion into the work. When I love something, I can lose sleep and forget meals while studying it deeply. I enjoy combining different skills and seeing the synergy they create. If you are interested in one of my specialties, no rush - we can meet by Sizihwan, drink tea, and talk." data-zh="沒錯！我喜歡探索新事物，注入感情，對於熱愛我總是會廢寢忘食的著墨與專研，我享受技能與技能之間的相互搭配與產生綜效，如果你對我某個專長有興趣，別急！我們可以約在西子灣邊喝茶邊聊天呀。">Yes, I love exploring new things and putting emotion into the work. When I love something, I can lose sleep and forget meals while studying it deeply. I enjoy combining different skills and seeing the synergy they create. If you are interested in one of my specialties, no rush - we can meet by Sizihwan, drink tea, and talk.</span>
 </p>
 
 <p>
