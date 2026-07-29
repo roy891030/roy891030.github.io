@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Tags
+title_en: Tags
+title_zh: 標籤
 permalink: /tags/
 ---
 
-<h2>All Tags</h2>
+<h2><span data-en="All Tags" data-zh="所有標籤">All Tags</span></h2>
 <ul>
   {% assign tags_list = site.tags | sort %}
   {% for tag in tags_list %}

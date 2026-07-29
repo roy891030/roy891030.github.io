@@ -18,10 +18,6 @@ permalink: /about/
   <span data-en="Yes, I love exploring new things and putting emotion into the work. When I love something, I can lose sleep and forget meals while studying it deeply. I enjoy combining different skills and seeing the synergy they create. If you are interested in one of my specialties, no rush - we can meet by Sizihwan, drink tea, and talk." data-zh="沒錯！我喜歡探索新事物，注入感情，對於熱愛我總是會廢寢忘食的著墨與專研，我享受技能與技能之間的相互搭配與產生綜效，如果你對我某個專長有興趣，別急！我們可以約在西子灣邊喝茶邊聊天呀。">Yes, I love exploring new things and putting emotion into the work. When I love something, I can lose sleep and forget meals while studying it deeply. I enjoy combining different skills and seeing the synergy they create. If you are interested in one of my specialties, no rush - we can meet by Sizihwan, drink tea, and talk.</span>
 </p>
 
-<p>
-  <span data-en="Programming is both an analytical method and a creative tool for me: it helps me organize information, test ideas, understand behavior, and build prototypes from practical problems." data-zh="對我來說，程式同時是分析方法與創作工具：它能整理資訊、驗證想法、理解行為，也能把實際問題做成可運作的原型。">Programming is both an analytical method and a creative tool for me: it helps me organize information, test ideas, understand behavior, and build prototypes from practical problems.</span>
-</p>
-
 <p><strong data-en="Core interests:" data-zh="核心關注：">Core interests:</strong></p>
 
 - <span data-en="Data science, machine learning, and FinTech applications." data-zh="資料科學、機器學習與金融科技應用。">Data science, machine learning, and FinTech applications.</span>
